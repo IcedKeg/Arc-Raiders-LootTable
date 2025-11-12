@@ -1,0 +1,1439 @@
+[
+    {
+        "name": "Advanced ARC Powercell",
+        "rarity": "Rare",
+        "recycles_to": "2x ARC Powercell",
+        "sell_price": 640,
+        "category": "Misc"
+    },
+    {
+        "name": "Advanced Electrical Components",
+        "rarity": "Rare",
+        "recycles_to": "1x Electrical Components 1x Wires",
+        "sell_price": 1750,
+        "category": "Advanced Material",
+        "keep_for_quests_or_workshop": "5x Workshop 5x Expedition"
+    },
+    {
+        "name": "Advanced Mechanical Components",
+        "rarity": "Rare",
+        "recycles_to": "1x Mechanical Components 1x Wires",
+        "sell_price": 1750,
+        "category": "Advanced Material",
+        "keep_for_quests_or_workshop": "5x Workshop"
+    },
+    {
+        "name": "Agave",
+        "rarity": "Uncommon",
+        "recycles_to": "3x Assorted Seeds",
+        "sell_price": 1000,
+        "category": "Nature"
+    },
+    {
+        "name": "Air Freshener",
+        "rarity": "Uncommon",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 2000,
+        "category": "Trinket"
+    },
+    {
+        "name": "Alarm Clock",
+        "rarity": "Rare",
+        "recycles_to": "1x Processor 6x Plastic Parts",
+        "sell_price": 1000,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Antiseptic",
+        "rarity": "Rare",
+        "recycles_to": "10x Chemicals",
+        "sell_price": 1000,
+        "category": "Refined Material",
+        "keep_for_quests_or_workshop": "8x Workshop 2x Quest"
+    },
+    {
+        "name": "Apricot",
+        "rarity": "Uncommon",
+        "recycles_to": "3x Assorted Seeds",
+        "sell_price": 640,
+        "category": "Nature",
+        "keep_for_quests_or_workshop": "15x Scrappy"
+    },
+    {
+        "name": "ARC Alloy",
+        "rarity": "Uncommon",
+        "recycles_to": "2x Metal Parts",
+        "sell_price": 200,
+        "category": "Topside Material",
+        "keep_for_quests_or_workshop": "18x Workshop 80x Expedition"
+    },
+    {
+        "name": "ARC Circuitry",
+        "rarity": "Rare",
+        "recycles_to": "2x ARC Alloy",
+        "sell_price": 1000,
+        "category": "Topside Material",
+        "keep_for_quests_or_workshop": "10x Workshop"
+    },
+    {
+        "name": "ARC Coolant",
+        "rarity": "Rare",
+        "recycles_to": "16x Chemicals",
+        "sell_price": 1000,
+        "category": "Recyclable"
+    },
+    {
+        "name": "ARC Flex Rubber",
+        "rarity": "Rare",
+        "recycles_to": "16x Rubber Parts",
+        "sell_price": 1000,
+        "category": "Recyclable"
+    },
+    {
+        "name": "ARC Motion Core",
+        "rarity": "Rare",
+        "recycles_to": "2x ARC Alloy",
+        "sell_price": 1000,
+        "category": "Topside Material",
+        "keep_for_quests_or_workshop": "5x Workshop"
+    },
+    {
+        "name": "ARC Performance Steel",
+        "rarity": "Rare",
+        "recycles_to": "12x Metal Parts",
+        "sell_price": 1000,
+        "category": "Recyclable"
+    },
+    {
+        "name": "ARC Powercell",
+        "rarity": "Common",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 640,
+        "category": "Topside Material",
+        "keep_for_quests_or_workshop": "5x Workshop"
+    },
+    {
+        "name": "ARC Synthetic Resin",
+        "rarity": "Rare",
+        "recycles_to": "14x Plastic Parts",
+        "sell_price": 1000,
+        "category": "Recyclable"
+    },
+    {
+        "name": "ARC Thermo Lining",
+        "rarity": "Rare",
+        "recycles_to": "16x Fabric",
+        "sell_price": 1000,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Assorted Seeds",
+        "rarity": "Common",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 100,
+        "category": "Nature",
+        "keep_for_quests_or_workshop": "Currency for Celeste"
+    },
+    {
+        "name": "Bastion Cell",
+        "rarity": "Epic",
+        "recycles_to": "2x ARC Motion Core 2x Advanced Mechanical Components",
+        "sell_price": 5000,
+        "category": "Recyclable",
+        "keep_for_quests_or_workshop": "6x Workshop"
+    },
+    {
+        "name": "Battery",
+        "rarity": "Uncommon",
+        "recycles_to": "2x Metal Parts",
+        "sell_price": 250,
+        "category": "Topside Material",
+        "keep_for_quests_or_workshop": "30x Expedition"
+    },
+    {
+        "name": "Bicycle Pump",
+        "rarity": "Rare",
+        "recycles_to": "4x Canister 10x Metal Parts",
+        "sell_price": 2000,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Bloated Tuna Can",
+        "rarity": "Common",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 1000,
+        "category": "Trinket"
+    },
+    {
+        "name": "Blown Fuses",
+        "rarity": "Common",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": "?",
+        "category": "Trinket"
+    },
+    {
+        "name": "Blue Gate Communication Tower Key",
+        "rarity": "Rare",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 100,
+        "category": "Key"
+    },
+    {
+        "name": "Blue Gate Confiscation Room Key",
+        "rarity": "Epic",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 100,
+        "category": "Key"
+    },
+    {
+        "name": "Blue Gate Cellar Key",
+        "rarity": "Uncommon",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 100,
+        "category": "Key"
+    },
+    {
+        "name": "Blue Gate Village Key",
+        "rarity": "Uncommon",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 100,
+        "category": "Key"
+    },
+    {
+        "name": "Bombardier Cell",
+        "rarity": "Epic",
+        "recycles_to": "2x Advanced Mechanical Components 2x ARC Alloy",
+        "sell_price": 5000,
+        "category": "Recyclable",
+        "keep_for_quests_or_workshop": "6x Workshop"
+    },
+    {
+        "name": "Breathtaking Snow Globe",
+        "rarity": "Epic",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 7000,
+        "category": "Trinket"
+    },
+    {
+        "name": "Broken Flashlight",
+        "rarity": "Rare",
+        "recycles_to": "3x Battery 7x Metal Parts",
+        "sell_price": 1000,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Broken Guidance System",
+        "rarity": "Rare",
+        "recycles_to": "4x Processor",
+        "sell_price": 2000,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Broken Handheld Radio",
+        "rarity": "Rare",
+        "recycles_to": "3x Sensors 3x Wires",
+        "sell_price": 1000,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Broken Taser",
+        "rarity": "Rare",
+        "recycles_to": "2x Battery 2x Wires",
+        "sell_price": 1000,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Buried City Hospital Key",
+        "rarity": "Rare",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 100,
+        "category": "Key"
+    },
+    {
+        "name": "Buried City JKV Employee Access Card",
+        "rarity": "Uncommon",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 100,
+        "category": "Key"
+    },
+    {
+        "name": "Buried City Residential Mastery Key",
+        "rarity": "Uncommon",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 100,
+        "category": "Key"
+    },
+    {
+        "name": "Buried City Town Hall Key",
+        "rarity": "Epic",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 100,
+        "category": "Key"
+    },
+    {
+        "name": "Burned ARC Circuitry",
+        "rarity": "Uncommon",
+        "recycles_to": "2x ARC Alloy",
+        "sell_price": 640,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Camera Lens",
+        "rarity": "Uncommon",
+        "recycles_to": "8x Plastic Parts",
+        "sell_price": 640,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Candle Holder",
+        "rarity": "Uncommon",
+        "recycles_to": "8x Metal Parts",
+        "sell_price": 270,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Canister",
+        "rarity": "Uncommon",
+        "recycles_to": "3x Plastic Parts",
+        "sell_price": 300,
+        "category": "Topside Material"
+    },
+    {
+        "name": "Cat Bed",
+        "rarity": "Common",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 1000,
+        "category": "Trinket",
+        "keep_for_quests_or_workshop": "1x Scrappy"
+    },
+    {
+        "name": "Chemicals",
+        "rarity": "Common",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 50,
+        "category": "Basic Material",
+        "keep_for_quests_or_workshop": "50x Workshop"
+    },
+    {
+        "name": "Coffee Pot",
+        "rarity": "Common",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 1000,
+        "category": "Trinket"
+    },
+    {
+        "name": "Complex Gun Parts",
+        "rarity": "Epic",
+        "recycles_to": "3x Simple Gun Parts",
+        "sell_price": 1000,
+        "category": "Topside Material"
+    },
+    {
+        "name": "Coolant",
+        "rarity": "Rare",
+        "recycles_to": "5x Chemicals 2x Oil",
+        "sell_price": 1000,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Cooling Coil",
+        "rarity": "Rare",
+        "recycles_to": "6x Chemicals 2x Steel Spring",
+        "sell_price": 1000,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Cooling Fan",
+        "rarity": "Rare",
+        "recycles_to": "14x Plastic Parts 4x Battery",
+        "sell_price": 2000,
+        "category": "Recyclable",
+        "keep_for_quests_or_workshop": "5x Expedition"
+    },
+    {
+        "name": "Cracked Bioscanner",
+        "rarity": "Rare",
+        "recycles_to": "3x Rubber Parts 5x Battery",
+        "sell_price": 1000,
+        "category": "Recyclable",
+        "keep_for_quests_or_workshop": "2x Workshop"
+    },
+    {
+        "name": "Crude Explosives",
+        "rarity": "Uncommon",
+        "recycles_to": "3x Chemicals",
+        "sell_price": 270,
+        "category": "Refined Material",
+        "keep_for_quests_or_workshop": "5x Workshop"
+    },
+    {
+        "name": "Crumpled Plastic Bottle",
+        "rarity": "Uncommon",
+        "recycles_to": "3x Plastic Parts",
+        "sell_price": 80,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Dam Control Tower Key",
+        "rarity": "Epic",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 100,
+        "category": "Key"
+    },
+    {
+        "name": "Dam Staff Room Key",
+        "rarity": "Uncommon",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 100,
+        "category": "Key"
+    },
+    {
+        "name": "Dam Surveillance Key",
+        "rarity": "Uncommon",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 100,
+        "category": "Key"
+    },
+    {
+        "name": "Dam Testing Annex Key",
+        "rarity": "Rare",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 100,
+        "category": "Key"
+    },
+    {
+        "name": "Dam Utility Key",
+        "rarity": "Uncommon",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 100,
+        "category": "Key"
+    },
+    {
+        "name": "Damaged ARC Motion Core",
+        "rarity": "Uncommon",
+        "recycles_to": "2x ARC Alloy",
+        "sell_price": 640,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Damaged ARC Powercell",
+        "rarity": "Common",
+        "recycles_to": "1x ARC Alloy",
+        "sell_price": 293,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Damaged Fireball Burner",
+        "rarity": "Common",
+        "recycles_to": "1x ARC Alloy",
+        "sell_price": 270,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Damaged Heat Sink",
+        "rarity": "Rare",
+        "recycles_to": "6x Metal Parts 2x Wires",
+        "sell_price": 1000,
+        "category": "Recyclable",
+        "keep_for_quests_or_workshop": "2x Workshop"
+    },
+    {
+        "name": "Damaged Hornet Driver",
+        "rarity": "Common",
+        "recycles_to": "2x ARC Alloy",
+        "sell_price": 640,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Damaged Rocketeer Driver",
+        "rarity": "Common",
+        "recycles_to": "3x ARC Alloy",
+        "sell_price": 2000,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Damaged Snitch Scanner",
+        "rarity": "Common",
+        "recycles_to": "-",
+        "sell_price": 659,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Damaged Tick Pod",
+        "rarity": "Common",
+        "recycles_to": "1x ARC Alloy",
+        "sell_price": 270,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Damaged Wasp Driver",
+        "rarity": "Common",
+        "recycles_to": "1x ARC Alloy",
+        "sell_price": 270,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Dart Board",
+        "rarity": "Uncommon",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 2000,
+        "category": "Trinket"
+    },
+    {
+        "name": "Deflated Football",
+        "rarity": "Uncommon",
+        "recycles_to": "15x Rubber Parts",
+        "sell_price": 1000,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Degraded ARC Rubber",
+        "rarity": "Uncommon",
+        "recycles_to": "11x Rubber Parts",
+        "sell_price": 640,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Diving Goggles",
+        "rarity": "Rare",
+        "recycles_to": "12x Rubber Parts",
+        "sell_price": 640,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Dog Collar",
+        "rarity": "Rare",
+        "recycles_to": "8x Fabric 1x Metal Parts",
+        "sell_price": 270,
+        "category": "Recyclable",
+        "keep_for_quests_or_workshop": "1x Workshop"
+    },
+    {
+        "name": "Dried-Out ARC Resin",
+        "rarity": "Uncommon",
+        "recycles_to": "9x Plastic Parts",
+        "sell_price": 640,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Duct Tape",
+        "rarity": "Uncommon",
+        "recycles_to": "3x Fabric",
+        "sell_price": 300,
+        "category": "Topside Material"
+    },
+    {
+        "name": "Durable Cloth",
+        "rarity": "Uncommon",
+        "recycles_to": "6x Fabric",
+        "sell_price": 640,
+        "category": "Refined Material",
+        "keep_for_quests_or_workshop": "5x Workshop 35x Expedition 1x Quest"
+    },
+    {
+        "name": "Electrical Components",
+        "rarity": "Uncommon",
+        "recycles_to": "3x Plastic Parts 3x Rubber Parts",
+        "sell_price": 640,
+        "category": "Refined Material",
+        "keep_for_quests_or_workshop": "10x Workshop 30x Expedition"
+    },
+    {
+        "name": "Empty Wine Bottle",
+        "rarity": "Common",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 1000,
+        "category": "Trinket"
+    },
+    {
+        "name": "Exodus Modules",
+        "rarity": "Epic",
+        "recycles_to": "2x Magnet 1x Mechanical Components",
+        "sell_price": 2750,
+        "category": "Topside Material",
+        "keep_for_quests_or_workshop": "1x Expedition"
+    },
+    {
+        "name": "Expired Pasta",
+        "rarity": "Common",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 1000,
+        "category": "Trinket"
+    },
+    {
+        "name": "Expired Respirator",
+        "rarity": "Rare",
+        "recycles_to": "8x Rubber Parts 4x Fabric",
+        "sell_price": 640,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Explosive Compound",
+        "rarity": "Rare",
+        "recycles_to": "2x Crude Explosives",
+        "sell_price": 1000,
+        "category": "Refined Material",
+        "keep_for_quests_or_workshop": "5x Workshop"
+    },
+    {
+        "name": "Fabric",
+        "rarity": "Common",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 50,
+        "category": "Basic Material",
+        "keep_for_quests_or_workshop": "80x Workshop"
+    },
+    {
+        "name": "Faded Photograph",
+        "rarity": "Common",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 640,
+        "category": "Trinket",
+        "keep_for_quests_or_workshop": "2x Quest"
+    },
+    {
+        "name": "Fertilizer",
+        "rarity": "Uncommon",
+        "recycles_to": "2x Assorted Seeds",
+        "sell_price": 1000,
+        "category": "Nature"
+    },
+    {
+        "name": "Film Reel",
+        "rarity": "Rare",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 2000,
+        "category": "Trinket",
+        "keep_for_quests_or_workshop": "1x Quest"
+    },
+    {
+        "name": "Fine Wristwatch",
+        "rarity": "Rare",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 3000,
+        "category": "Trinket"
+    },
+    {
+        "name": "Fireball Burner",
+        "rarity": "Uncommon",
+        "recycles_to": "1x ARC Alloy 1x Chemicals",
+        "sell_price": 640,
+        "category": "Recyclable",
+        "keep_for_quests_or_workshop": "8x Workshop"
+    },
+    {
+        "name": "Fried Motherboard",
+        "rarity": "Rare",
+        "recycles_to": "5x Plastic Parts 1x Electrical Components",
+        "sell_price": 2000,
+        "category": "Recyclable",
+        "keep_for_quests_or_workshop": "3x Workshop"
+    },
+    {
+        "name": "Frying Pan",
+        "rarity": "Rare",
+        "recycles_to": "8x Metal Parts",
+        "sell_price": 270,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Garlic Press",
+        "rarity": "Uncommon",
+        "recycles_to": "12x Metal Parts",
+        "sell_price": 1000,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Great Mullein",
+        "rarity": "Uncommon",
+        "recycles_to": "4x Assorted Seeds",
+        "sell_price": 300,
+        "category": "Topside Material",
+        "keep_for_quests_or_workshop": "1x Quest"
+    },
+    {
+        "name": "Headphones",
+        "rarity": "Rare",
+        "recycles_to": "6x Rubber Parts 2x Speaker Component",
+        "sell_price": 1000,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Heavy Gun Parts",
+        "rarity": "Rare",
+        "recycles_to": "2x Simple Gun Parts",
+        "sell_price": 700,
+        "category": "Topside Material"
+    },
+    {
+        "name": "Hornet Driver",
+        "rarity": "Rare",
+        "recycles_to": "2x ARC Alloy 2x Electrical Components",
+        "sell_price": 2000,
+        "category": "Recyclable",
+        "keep_for_quests_or_workshop": "5x Workshop 2x Quest"
+    },
+    {
+        "name": "Household Cleaner",
+        "rarity": "Uncommon",
+        "recycles_to": "13x Chemicals",
+        "sell_price": 640,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Humidifier",
+        "rarity": "Rare",
+        "recycles_to": "2x Canister 2x Wires",
+        "sell_price": 1000,
+        "category": "Recyclable",
+        "keep_for_quests_or_workshop": "5x Expedition"
+    },
+    {
+        "name": "Ice Cream Scooper",
+        "rarity": "Uncommon",
+        "recycles_to": "7x Metal Parts",
+        "sell_price": 640,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Impure ARC Coolant",
+        "rarity": "Uncommon",
+        "recycles_to": "13x Chemicals",
+        "sell_price": 640,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Industrial Battery",
+        "rarity": "Rare",
+        "recycles_to": "7x Chemicals 2x Battery",
+        "sell_price": 1000,
+        "category": "Recyclable",
+        "keep_for_quests_or_workshop": "3x Workshop"
+    },
+    {
+        "name": "Industrial Charger",
+        "rarity": "Rare",
+        "recycles_to": "5x Metal Parts 1x Voltage Converter",
+        "sell_price": 1000,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Industrial Magnet",
+        "rarity": "Rare",
+        "recycles_to": "2x Magnet 4x Metal Parts",
+        "sell_price": 1000,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Laboratory Reagents",
+        "rarity": "Rare",
+        "recycles_to": "2x Chemicals 2x Crude Explosives",
+        "sell_price": 2000,
+        "category": "Recyclable",
+        "keep_for_quests_or_workshop": "3x Workshop"
+    },
+    {
+        "name": "Lance's Mixtape (5th Edition)",
+        "rarity": "Epic",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 10000,
+        "category": "Trinket"
+    },
+    {
+        "name": "Lemon",
+        "rarity": "Common",
+        "recycles_to": "3x Assorted Seeds",
+        "sell_price": 640,
+        "category": "Nature",
+        "keep_for_quests_or_workshop": "3x Scrappy"
+    },
+    {
+        "name": "Leaper Pulse Unit",
+        "rarity": "Epic",
+        "recycles_to": "2x Advanced Mechanical Components 3x ARC Alloy",
+        "sell_price": 5000,
+        "category": "Recyclable",
+        "keep_for_quests_or_workshop": "3x Expedition 4x Workshop"
+    },
+    {
+        "name": "Light Bulb",
+        "rarity": "Uncommon",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 2000,
+        "category": "Trinket",
+        "keep_for_quests_or_workshop": "5x Expedition"
+    },
+    {
+        "name": "Light Gun Parts",
+        "rarity": "Rare",
+        "recycles_to": "2x Simple Gun Parts",
+        "sell_price": 700,
+        "category": "Topside Material"
+    },
+    {
+        "name": "Magnet",
+        "rarity": "Uncommon",
+        "recycles_to": "3x Metal Parts",
+        "sell_price": 300,
+        "category": "Topside Material"
+    },
+    {
+        "name": "Magnetic Accelerator",
+        "rarity": "Epic",
+        "recycles_to": "1x Advanced Mechanical Components 1x ARC Motion Core",
+        "sell_price": 5500,
+        "category": "Refined Material",
+        "keep_for_quests_or_workshop": "3x Expedition"
+    },
+    {
+        "name": "Mechanical Components",
+        "rarity": "Rare",
+        "recycles_to": "3x Metal Parts 2x Rubber Parts",
+        "sell_price": 2000,
+        "category": "Refined Material",
+        "keep_for_quests_or_workshop": "5x Workshop"
+    },
+    {
+        "name": "Medium Gun Parts",
+        "rarity": "Rare",
+        "recycles_to": "2x Simple Gun Parts",
+        "sell_price": 700,
+        "category": "Topside Material"
+    },
+    {
+        "name": "Metal Brackets",
+        "rarity": "Uncommon",
+        "recycles_to": "8x Metal Parts",
+        "sell_price": 270,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Metal Parts",
+        "rarity": "Common",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 75,
+        "category": "Basic Material",
+        "keep_for_quests_or_workshop": "80x Workshop 150x Expedition"
+    },
+    {
+        "name": "Mod Components",
+        "rarity": "Epic",
+        "recycles_to": "1x Mechanical Components 1x Steel Spring",
+        "sell_price": 3000,
+        "category": "Advanced Material"
+    },
+    {
+        "name": "Moss",
+        "rarity": "Rare",
+        "recycles_to": "3x Assorted Seeds",
+        "sell_price": 500,
+        "category": "Topside Material"
+    },
+    {
+        "name": "Motor",
+        "rarity": "Rare",
+        "recycles_to": "2x Oil 2x Mechanical Components",
+        "sell_price": 1000,
+        "category": "Recyclable",
+        "keep_for_quests_or_workshop": "3x Workshop"
+    },
+    {
+        "name": "Mushroom",
+        "rarity": "Uncommon",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 1000,
+        "category": "Nature",
+        "keep_for_quests_or_workshop": "12x Scrappy"
+    },
+    {
+        "name": "Music Album",
+        "rarity": "Rare",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 3000,
+        "category": "Trinket"
+    },
+    {
+        "name": "Music Box",
+        "rarity": "Rare",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 5000,
+        "category": "Trinket"
+    },
+    {
+        "name": "Number Plate",
+        "rarity": "Uncommon",
+        "recycles_to": "3x Metal Parts",
+        "sell_price": 80,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Oil",
+        "rarity": "Uncommon",
+        "recycles_to": "3x Chemicals",
+        "sell_price": 300,
+        "category": "Topside Material"
+    },
+    {
+        "name": "Olives",
+        "rarity": "Common",
+        "recycles_to": "2x Assorted Seeds",
+        "sell_price": 640,
+        "category": "Nature",
+        "keep_for_quests_or_workshop": "6x Scrappy"
+    },
+    {
+        "name": "Painted Box",
+        "rarity": "Common",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 2000,
+        "category": "Trinket"
+    },
+    {
+        "name": "Patrol Car Key",
+        "rarity": "Uncommon",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 100,
+        "category": "Key"
+    },
+    {
+        "name": "Plastic Parts",
+        "rarity": "Common",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 60,
+        "category": "Basic Material",
+        "keep_for_quests_or_workshop": "75x Workshop"
+    },
+    {
+        "name": "Playing Cards",
+        "rarity": "Rare",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 5000,
+        "category": "Trinket"
+    },
+    {
+        "name": "Polluted Air Filter",
+        "rarity": "Rare",
+        "recycles_to": "6x Fabric 2x Oil",
+        "sell_price": 1000,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Pop Trigger",
+        "rarity": "Common",
+        "recycles_to": "1x Crude Explosives 1x ARC Alloy",
+        "sell_price": 640,
+        "category": "Recyclable",
+        "keep_for_quests_or_workshop": "5x Workshop"
+    },
+    {
+        "name": "Portable TV",
+        "rarity": "Rare",
+        "recycles_to": "2x Battery 6x Wires",
+        "sell_price": 2000,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Poster of Natural Wonders",
+        "rarity": "Uncommon",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 2000,
+        "category": "Trinket"
+    },
+    {
+        "name": "Pottery",
+        "rarity": "Uncommon",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 2000,
+        "category": "Trinket"
+    },
+    {
+        "name": "Power Bank",
+        "rarity": "Rare",
+        "recycles_to": "2x Battery 2x Wires",
+        "sell_price": 1000,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Power Cable",
+        "rarity": "Rare",
+        "recycles_to": "4x Wires",
+        "sell_price": 1000,
+        "category": "Recyclable",
+        "keep_for_quests_or_workshop": "3x Workshop"
+    },
+    {
+        "name": "Power Rod",
+        "rarity": "Epic",
+        "recycles_to": "1x Advanced Electrical Components 1x ARC Circuitry",
+        "sell_price": 5500,
+        "category": "Advanced Material"
+    },
+    {
+        "name": "Prickly Pear",
+        "rarity": "Common",
+        "recycles_to": "3x Assorted Seeds",
+        "sell_price": 640,
+        "category": "Nature",
+        "keep_for_quests_or_workshop": "6x Scrappy"
+    },
+    {
+        "name": "Processor",
+        "rarity": "Rare",
+        "recycles_to": "1x Wires 1x Plastic Parts",
+        "sell_price": 500,
+        "category": "Topside Material"
+    },
+    {
+        "name": "Projector",
+        "rarity": "Rare",
+        "recycles_to": "1x Processor 2x Wires",
+        "sell_price": 640,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Queen Reactor",
+        "rarity": "Legendary",
+        "recycles_to": "1x Power Rod 1x Magnetic Accelerator",
+        "sell_price": 13000,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Radio",
+        "rarity": "Rare",
+        "recycles_to": "1x Speaker Component 1x Sensors",
+        "sell_price": 1000,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Raider Hatch Key",
+        "rarity": "Rare",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 1000,
+        "category": "Key"
+    },
+    {
+        "name": "Red Coral Jewelry",
+        "rarity": "Rare",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 5000,
+        "category": "Trinket"
+    },
+    {
+        "name": "Remote Control",
+        "rarity": "Uncommon",
+        "recycles_to": "2x Plastic Parts 1x Sensors",
+        "sell_price": 1000,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Resin",
+        "rarity": "Common",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 1000,
+        "category": "Nature"
+    },
+    {
+        "name": "Rocketeer Driver",
+        "rarity": "Epic",
+        "recycles_to": "2x Advanced Electrical Components 3x ARC Alloy",
+        "sell_price": 5000,
+        "category": "Recyclable",
+        "keep_for_quests_or_workshop": "3x Workshop"
+    },
+    {
+        "name": "Ripped Safety Vest",
+        "rarity": "Uncommon",
+        "recycles_to": "1x Magnet 1x Durable Cloth",
+        "sell_price": 1000,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Rocket Thruster",
+        "rarity": "Rare",
+        "recycles_to": "2x Synthesized Fuel 6x Metal Parts",
+        "sell_price": 2000,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Roots",
+        "rarity": "Uncommon",
+        "recycles_to": "1x Assorted Seeds",
+        "sell_price": 640,
+        "category": "Nature"
+    },
+    {
+        "name": "Rope",
+        "rarity": "Rare",
+        "recycles_to": "5x Fabric",
+        "sell_price": 500,
+        "category": "Topside Material"
+    },
+    {
+        "name": "Rosary",
+        "rarity": "Common",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 2000,
+        "category": "Trinket"
+    },
+    {
+        "name": "Rubber Duck",
+        "rarity": "Common",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 1000,
+        "category": "Trinket",
+        "keep_for_quests_or_workshop": "2x  Quest"
+    },
+    {
+        "name": "Rubber Pad",
+        "rarity": "Rare",
+        "recycles_to": "18x Rubber Parts",
+        "sell_price": 1000,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Rubber Parts",
+        "rarity": "Common",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 50,
+        "category": "Basic Material",
+        "keep_for_quests_or_workshop": "30x Workshop 200x Expedition"
+    },
+    {
+        "name": "Ruined Accordion",
+        "rarity": "Rare",
+        "recycles_to": "18x Rubber Parts 3x Steel Spring",
+        "sell_price": 2000,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Ruined Augment",
+        "rarity": "-",
+        "recycles_to": "2x Plastic Parts 2x Rubber Parts",
+        "sell_price": 270,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Ruined Baton",
+        "rarity": "Uncommon",
+        "recycles_to": "6x Metal Parts 3x Rubber Parts",
+        "sell_price": 640,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Ruined Handcuffs",
+        "rarity": "Uncommon",
+        "recycles_to": "8x Metal Parts",
+        "sell_price": 270,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Ruined Parachute",
+        "rarity": "Uncommon",
+        "recycles_to": "10x Fabric",
+        "sell_price": 640,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Ruined Tactical Vest",
+        "rarity": "Uncommon",
+        "recycles_to": "5x Fabric 1x Magnet",
+        "sell_price": 640,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Ruined Riot Shield",
+        "rarity": "Rare",
+        "recycles_to": "10x Plastic Parts 6x Rubber Parts",
+        "sell_price": 1000,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Rusted Bolts",
+        "rarity": "Uncommon",
+        "recycles_to": "8x Metal Parts",
+        "sell_price": 640,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Rusted Gear",
+        "rarity": "Rare",
+        "recycles_to": "4x Metal Parts 2x Mechanical Components",
+        "sell_price": 2000,
+        "category": "Recyclable",
+        "keep_for_quests_or_workshop": "3x Workshop"
+    },
+    {
+        "name": "Rusted Shut Medical Kit",
+        "rarity": "Rare",
+        "recycles_to": "2x Syringe 1x Antiseptic",
+        "sell_price": 1000,
+        "category": "Recyclable",
+        "keep_for_quests_or_workshop": "3x Workshop"
+    },
+    {
+        "name": "Rusted Tools",
+        "rarity": "Rare",
+        "recycles_to": "8x Metal Parts 1x Steel Spring",
+        "sell_price": 1000,
+        "category": "Recyclable",
+        "keep_for_quests_or_workshop": "3x Workshop"
+    },
+    {
+        "name": "Rusty ARC Steel",
+        "rarity": "Uncommon",
+        "recycles_to": "8x Metal Parts",
+        "sell_price": 640,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Sensors",
+        "rarity": "Rare",
+        "recycles_to": "2x Wires 2x Metal Parts",
+        "sell_price": 500,
+        "category": "Topside Material",
+        "keep_for_quests_or_workshop": "20x Expedition"
+    },
+    {
+        "name": "Sentinel Firing Core",
+        "rarity": "Rare",
+        "recycles_to": "2x ARC Alloy 3x Mechanical Components",
+        "sell_price": 3000,
+        "category": "Recyclable",
+        "keep_for_quests_or_workshop": "4x Workshop"
+    },
+    {
+        "name": "Silver Teaspoon Set",
+        "rarity": "Common",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 3000,
+        "category": "Trinket"
+    },
+    {
+        "name": "Simple Gun Parts",
+        "rarity": "Uncommon",
+        "recycles_to": "2x Metal Parts",
+        "sell_price": 330,
+        "category": "Topside Material"
+    },
+    {
+        "name": "Snitch Scanner",
+        "rarity": "Uncommon",
+        "recycles_to": "4x ARC Alloy 2x Electrical Components",
+        "sell_price": 2000,
+        "category": "Recyclable",
+        "keep_for_quests_or_workshop": "6x Workshop"
+    },
+    {
+        "name": "Spaceport Container Storage Key",
+        "rarity": "Rare",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 100,
+        "category": "Key"
+    },
+    {
+        "name": "Spaceport Control Tower Key",
+        "rarity": "Rare",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 100,
+        "category": "Key"
+    },
+    {
+        "name": "Spaceport Trench Tower Key",
+        "rarity": "Uncommon",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 100,
+        "category": "Key"
+    },
+    {
+        "name": "Spaceport Warehouse Key",
+        "rarity": "Uncommon",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 100,
+        "category": "Key"
+    },
+    {
+        "name": "Speaker Component",
+        "rarity": "Rare",
+        "recycles_to": "2x Plastic Parts 2x Rubber Parts",
+        "sell_price": 500,
+        "category": "Topside Material"
+    },
+    {
+        "name": "Spring Cushion",
+        "rarity": "Rare",
+        "recycles_to": "2x Durable Cloth 2x Steel Spring",
+        "sell_price": 2000,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Spotter Relay",
+        "rarity": "Uncommon",
+        "recycles_to": "2x Electrical Components 1x ARC Alloy",
+        "sell_price": 5000,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Statuette",
+        "rarity": "Common",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 3000,
+        "category": "Trinket"
+    },
+    {
+        "name": "Steel Spring",
+        "rarity": "Uncommon",
+        "recycles_to": "3x Metal Parts",
+        "sell_price": 300,
+        "category": "Topside Material",
+        "keep_for_quests_or_workshop": "15x Expedition"
+    },
+    {
+        "name": "Surveyor Vault",
+        "rarity": "Rare",
+        "recycles_to": "2x Mechanical Components 2x ARC Alloy",
+        "sell_price": 2000,
+        "category": "Topside Material",
+        "keep_for_quests_or_workshop": "5x Workshop 1x Quest"
+    },
+    {
+        "name": "Synthesized Fuel",
+        "rarity": "Rare",
+        "recycles_to": "1x Oil 1x Plastic Parts",
+        "sell_price": 700,
+        "category": "Topside Material",
+        "keep_for_quests_or_workshop": "3x Workshop"
+    },
+    {
+        "name": "Syringe",
+        "rarity": "Rare",
+        "recycles_to": "3x Plastic Parts 2x Chemicals",
+        "sell_price": 500,
+        "category": "Topside Material",
+        "keep_for_quests_or_workshop": "1x Quest"
+    },
+    {
+        "name": "Tattered ARC Lining",
+        "rarity": "Uncommon",
+        "recycles_to": "12x Fabric",
+        "sell_price": 640,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Tattered Clothes",
+        "rarity": "Uncommon",
+        "recycles_to": "11x Fabric",
+        "sell_price": 270,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Thermostat",
+        "rarity": "Rare",
+        "recycles_to": "6x Rubber Parts 2x Sensors",
+        "sell_price": 1000,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Tick Pod",
+        "rarity": "Uncommon",
+        "recycles_to": "1x Chemicals 1x Metal Parts",
+        "sell_price": 640,
+        "category": "Recyclable",
+        "keep_for_quests_or_workshop": "8x Workshop"
+    },
+    {
+        "name": "Toaster",
+        "rarity": "Rare",
+        "recycles_to": "5x Plastic Parts 3x Wires",
+        "sell_price": 1000,
+        "category": "Recyclable",
+        "keep_for_quests_or_workshop": "3x Workshop"
+    },
+    {
+        "name": "Torn Book",
+        "rarity": "Common",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 1000,
+        "category": "Trinket"
+    },
+    {
+        "name": "Torn Blanket",
+        "rarity": "Rare",
+        "recycles_to": "12x Fabric",
+        "sell_price": 640,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Turbo Pump",
+        "rarity": "Rare",
+        "recycles_to": "1x Mechanical Components 3x Oil",
+        "sell_price": 2000,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Unusable Weapon",
+        "rarity": "Rare",
+        "recycles_to": "4x Metal Parts 5x Simple Gun Parts",
+        "sell_price": 2000,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Vase",
+        "rarity": "Rare",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 3000,
+        "category": "Trinket"
+    },
+    {
+        "name": "Very Comfortable Pillow",
+        "rarity": "Common",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 2000,
+        "category": "Trinket",
+        "keep_for_quests_or_workshop": "3x Scrappy"
+    },
+    {
+        "name": "Volcanic Rock",
+        "rarity": "Common",
+        "recycles_to": "Cannot be recycled",
+        "sell_price": 270,
+        "category": "Misc"
+    },
+    {
+        "name": "Voltage Converter",
+        "rarity": "Rare",
+        "recycles_to": "1x Wires 1x Rubber Parts",
+        "sell_price": 500,
+        "category": "Topside Material"
+    },
+    {
+        "name": "Wasp Driver",
+        "rarity": "Rare",
+        "recycles_to": "1x ARC Alloy 1x Electrical Components",
+        "sell_price": 1000,
+        "category": "Recyclable",
+        "keep_for_quests_or_workshop": "8x Workshop"
+    },
+    {
+        "name": "Water Filter",
+        "rarity": "Rare",
+        "recycles_to": "2x Rubber Parts 3x Canister",
+        "sell_price": 1000,
+        "category": "Recyclable"
+    },
+    {
+        "name": "Water Pump",
+        "rarity": "Rare",
+        "recycles_to": "4x Metal Parts 2x Oil",
+        "sell_price": 1000,
+        "category": "Recyclable",
+        "keep_for_quests_or_workshop": "2x Quest"
+    },
+    {
+        "name": "Wires",
+        "rarity": "Uncommon",
+        "recycles_to": "2x Rubber Parts",
+        "sell_price": 200,
+        "category": "Topside Material",
+        "keep_for_quests_or_workshop": "30x Expedition 3x Quest"
+    }
+]

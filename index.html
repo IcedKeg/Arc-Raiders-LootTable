@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Keg's Arc Raiders Loot Table</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Arc Raiders Loot Table</h1>
+
+  <!-- Filter & search controls -->
+  <div class="controls">
+    <input type="text" id="searchBox" placeholder="Search item name...">
+
+    <select id="filterRarity">
+      <option value="">All Rarities</option>
+      <option value="Common">Common</option>
+      <option value="Uncommon">Uncommon</option>
+      <option value="Rare">Rare</option>
+      <option value="Epic">Epic</option>
+      <option value="Legendary">Legendary</option>
+    </select>
+
+    <select id="filterCategory">
+      <option value="">All Categories</option>
+    </select>
+
+    <button id="resetFilters">Reset</button>
+  </div>
+
+
+  <table id="lootTable">
+    <thead>
+  <tr>
+    <th>Image</th>
+    <th data-sort="name">Item</th>
+    <th data-sort="rarity">Rarity</th>
+    <th data-sort="category">Category</th>
+    <th data-sort="sell_value">Sell Value</th>
+    <th data-sort="recycle_value">Recycle Value</th>
+    <th data-sort="delta_sell">Δ Sell (Profit)</th>
+  </tr>
+</thead>
+
+    <tbody></tbody>
+  </table>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
