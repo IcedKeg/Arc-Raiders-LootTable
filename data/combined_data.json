@@ -1,0 +1,4637 @@
+[
+  {
+    "name": "Adrenaline Shot",
+    "rarity": "Common",
+    "category": "Quick Use",
+    "values": {
+      "sell": 300,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Advanced ARC Powercell",
+    "rarity": "Rare",
+    "category": "Topside Material",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Agave",
+    "rarity": "Uncommon",
+    "category": "Nature",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Agave Juice",
+    "rarity": "Common",
+    "category": "Quick Use",
+    "values": {
+      "sell": 1800,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Air Freshener",
+    "rarity": "Uncommon",
+    "category": "Trinket",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Alarm Clock",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Angled Grip I",
+    "rarity": "Common",
+    "category": "Modification",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Angled Grip II",
+    "rarity": "Uncommon",
+    "category": "Modification",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Angled Grip III",
+    "rarity": "Rare",
+    "category": "Modification",
+    "values": {
+      "sell": 5000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Antiseptic",
+    "rarity": "Rare",
+    "category": "Refined Material",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Anvil",
+    "rarity": "Uncommon",
+    "category": "Hand Cannon",
+    "values": {
+      "sell": 5000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Anvil Splitter",
+    "rarity": "Legendary",
+    "category": "Modification",
+    "values": {
+      "sell": 7000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Apricot",
+    "rarity": "Uncommon",
+    "category": "Nature",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "ARC Alloy",
+    "rarity": "Uncommon",
+    "category": "Topside Material",
+    "values": {
+      "sell": 200,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "ARC Circuitry",
+    "rarity": "Rare",
+    "category": "Topside Material",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "ARC Coolant",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "ARC Flex Rubber",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "ARC Motion Core",
+    "rarity": "Rare",
+    "category": "Topside Material",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "ARC Performance Steel",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "ARC Powercell",
+    "rarity": "Common",
+    "category": "Topside Material",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "ARC Synthetic Resin",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "ARC Thermo Lining",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Arpeggio",
+    "rarity": "Uncommon",
+    "category": "Assault Rifle",
+    "values": {
+      "sell": 5500,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Assorted Seeds",
+    "rarity": "Common",
+    "category": "Nature",
+    "values": {
+      "sell": 100,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Bandage",
+    "rarity": "Common",
+    "category": "Quick Use",
+    "values": {
+      "sell": 250,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Barricade Kit",
+    "rarity": "Uncommon",
+    "category": "Quick Use",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Bastion Cell",
+    "rarity": "Epic",
+    "category": "Recyclable",
+    "values": {
+      "sell": 5000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Battery",
+    "rarity": "Uncommon",
+    "category": "Topside Material",
+    "values": {
+      "sell": 250,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Bettina",
+    "rarity": "Epic",
+    "category": "Assault Rifle",
+    "values": {
+      "sell": 8000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Bicycle Pump",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Binoculars",
+    "rarity": "Common",
+    "category": "Quick Use",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Blaze Grenade",
+    "rarity": "Rare",
+    "category": "Quick Use",
+    "values": {
+      "sell": 1600,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Blaze Grenade Trap",
+    "rarity": "Rare",
+    "category": "Quick Use",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Bloated Tuna Can",
+    "rarity": "Common",
+    "category": "Trinket",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Blown Fuses",
+    "rarity": "Common",
+    "category": "Trinket",
+    "values": {
+      "sell": null,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Blue Gate Cellar Key",
+    "rarity": "Uncommon",
+    "category": "Key",
+    "values": {
+      "sell": 100,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Blue Gate Communication Tower Key",
+    "rarity": "Rare",
+    "category": "Key",
+    "values": {
+      "sell": 100,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Blue Gate Confiscation Room Key",
+    "rarity": "Epic",
+    "category": "Key",
+    "values": {
+      "sell": 100,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Blue Gate Village Key",
+    "rarity": "Uncommon",
+    "category": "Key",
+    "values": {
+      "sell": 100,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Bobcat",
+    "rarity": "Epic",
+    "category": "SMG",
+    "values": {
+      "sell": 17000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Bombardier Cell",
+    "rarity": "Epic",
+    "category": "Recyclable",
+    "values": {
+      "sell": 5000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Breathtaking Snow Globe",
+    "rarity": "Epic",
+    "category": "Trinket",
+    "values": {
+      "sell": 7000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Broken Flashlight",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Broken Guidance System",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Broken Handheld Radio",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Broken Taser",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Buried City Hospital Key",
+    "rarity": "Rare",
+    "category": "Key",
+    "values": {
+      "sell": 100,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Buried City JKV Employee Access Card",
+    "rarity": "Uncommon",
+    "category": "Key",
+    "values": {
+      "sell": 100,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Buried City Residential Mastery Key",
+    "rarity": "Uncommon",
+    "category": "Key",
+    "values": {
+      "sell": 100,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Buried City Town Hall Key",
+    "rarity": "Epic",
+    "category": "Key",
+    "values": {
+      "sell": 100,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Burletta",
+    "rarity": "Uncommon",
+    "category": "Pistol",
+    "values": {
+      "sell": 2900,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Burned ARC Circuitry",
+    "rarity": "Uncommon",
+    "category": "Recyclable",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Camera Lens",
+    "rarity": "Uncommon",
+    "category": "Recyclable",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Candle Holder",
+    "rarity": "Uncommon",
+    "category": "Recyclable",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Canister",
+    "rarity": "Uncommon",
+    "category": "Topside Material",
+    "values": {
+      "sell": 300,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Cat Bed",
+    "rarity": "Uncommon",
+    "category": "Trinket",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Chemicals",
+    "rarity": "Common",
+    "category": "Basic Material",
+    "values": {
+      "sell": 50,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Coffe Pot",
+    "rarity": "Common",
+    "category": "Trinket",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Combat Mk. 1",
+    "rarity": "Uncommon",
+    "category": "Augment",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Combat Mk. 2",
+    "rarity": "Rare",
+    "category": "Augment",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Combat Mk. 3 (Aggressive)",
+    "rarity": "Epic",
+    "category": "Augment",
+    "values": {
+      "sell": 5000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Combat Mk. 3 (Flanking)",
+    "rarity": "Epic",
+    "category": "Augment",
+    "values": {
+      "sell": 3000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Compensator I",
+    "rarity": "Common",
+    "category": "Modification",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Compensator II",
+    "rarity": "Uncommon",
+    "category": "Modification",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Compensator III",
+    "rarity": "Rare",
+    "category": "Modification",
+    "values": {
+      "sell": 5000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Complex Gun Parts",
+    "rarity": "Epic",
+    "category": "Topside Material",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Coolant",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Cooling Coil",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Cooling Fan",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Cracked Bioscanner",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Crude Explosives",
+    "rarity": "Uncommon",
+    "category": "Refined Material",
+    "values": {
+      "sell": 270,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Crumpled Plastic Bottle",
+    "rarity": "Uncommon",
+    "category": "Recyclable",
+    "values": {
+      "sell": 270,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Dam Control Tower Key",
+    "rarity": "Epic",
+    "category": "Key",
+    "values": {
+      "sell": 100,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Dam Staff Room Key",
+    "rarity": "Uncommon",
+    "category": "Key",
+    "values": {
+      "sell": 100,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Dam Surveillance Key",
+    "rarity": "Uncommon",
+    "category": "Key",
+    "values": {
+      "sell": 100,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Dam Testing Annex Key",
+    "rarity": "Rare",
+    "category": "Key",
+    "values": {
+      "sell": 100,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Dam Utility Key",
+    "rarity": "Uncommon",
+    "category": "Key",
+    "values": {
+      "sell": 100,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Damaged ARC Motion Core",
+    "rarity": "Uncommon",
+    "category": "Recyclable",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Damaged ARC Powercell",
+    "rarity": "Common",
+    "category": "Recyclable",
+    "values": {
+      "sell": 293,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Damaged Fireball Burner",
+    "rarity": "Common",
+    "category": "Recyclable",
+    "values": {
+      "sell": 270,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Damaged Heat Sink",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Damaged Hornet Driver",
+    "rarity": "Common",
+    "category": "Recyclable",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Damaged Rocketeer Driver",
+    "rarity": "Common",
+    "category": "Recyclable",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Damaged Snitch Scanner",
+    "rarity": "Common",
+    "category": "Recyclable",
+    "values": {
+      "sell": 659,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Damaged Tick Pod",
+    "rarity": "Common",
+    "category": "Recyclable",
+    "values": {
+      "sell": 270,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Damaged Wasp Driver",
+    "rarity": "Common",
+    "category": "Recyclable",
+    "values": {
+      "sell": 270,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Dart Board",
+    "rarity": "Uncommon",
+    "category": "Trinket",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Defibrillator",
+    "rarity": "Rare",
+    "category": "Quick Use",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Deflated Football",
+    "rarity": "Uncommon",
+    "category": "Recyclable",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Degraded ARC Rubber",
+    "rarity": "Uncommon",
+    "category": "Recyclable",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Diving Goggles",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Dog Collar",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Door Blocker",
+    "rarity": "Common",
+    "category": "Quick Use",
+    "values": {
+      "sell": 270,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Dried-Out ARC Resin",
+    "rarity": "Uncommon",
+    "category": "Recyclable",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Duct Tape",
+    "rarity": "Uncommon",
+    "category": "Topside Material",
+    "values": {
+      "sell": 300,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Durable Cloth",
+    "rarity": "Uncommon",
+    "category": "Refined Material",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Empty Wine Bottle",
+    "rarity": "Common",
+    "category": "Trinket",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Energy Clip",
+    "rarity": "Rare",
+    "category": "Ammunition",
+    "values": {
+      "sell": 5,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Equalizer",
+    "rarity": "Legendary",
+    "category": "Special",
+    "values": {
+      "sell": 27500,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Exodus Modules",
+    "rarity": "Epic",
+    "category": "Topside Material",
+    "values": {
+      "sell": 2750,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Expired Pasta",
+    "rarity": "Common",
+    "category": "Trinket",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Expired Respirator",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Explosive Compound",
+    "rarity": "Rare",
+    "category": "Refined Material",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Explosive Mine",
+    "rarity": "Rare",
+    "category": "Quick Use",
+    "values": {
+      "sell": 1500,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Extended Barrel",
+    "rarity": "Epic",
+    "category": "Modification",
+    "values": {
+      "sell": 5000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Extended Light Mag I",
+    "rarity": "Common",
+    "category": "Modification",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Extended Light Mag II",
+    "rarity": "Uncommon",
+    "category": "Modification",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Extended Light Mag III",
+    "rarity": "Rare",
+    "category": "Modification",
+    "values": {
+      "sell": 5000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Extended Medium Mag I",
+    "rarity": "Common",
+    "category": "Modification",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Extended Medium Mag II",
+    "rarity": "Uncommon",
+    "category": "Modification",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Extended Medium Mag III",
+    "rarity": "Rare",
+    "category": "Modification",
+    "values": {
+      "sell": 5000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Extended Shotgun Mag I",
+    "rarity": "Common",
+    "category": "Modification",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Extended Shotgun Mag II",
+    "rarity": "Uncommon",
+    "category": "Modification",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Extended Shotgun Mag III",
+    "rarity": "Rare",
+    "category": "Modification",
+    "values": {
+      "sell": 5000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Fabric",
+    "rarity": "Common",
+    "category": "Basic Material",
+    "values": {
+      "sell": 50,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Faded Photograph",
+    "rarity": "Common",
+    "category": "Trinket",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Ferro",
+    "rarity": "Common",
+    "category": "Battle Rifle",
+    "values": {
+      "sell": 475,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Fertilizer",
+    "rarity": "Uncommon",
+    "category": "Nature",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Film Reel",
+    "rarity": "Rare",
+    "category": "Trinket",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Fine Wristwatch",
+    "rarity": "Rare",
+    "category": "Trinket",
+    "values": {
+      "sell": 3000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Fireball Burner",
+    "rarity": "Uncommon",
+    "category": "Recyclable",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Flame Spray",
+    "rarity": "Uncommon",
+    "category": "Quick Use",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Free Loadout Augment",
+    "rarity": "Common",
+    "category": "Augment",
+    "values": {
+      "sell": 100,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Fried Motherboard",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Fruit Mix",
+    "rarity": "Uncommon",
+    "category": "Quick Use",
+    "values": {
+      "sell": 1800,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Frying Pan",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Garlic Press",
+    "rarity": "Uncommon",
+    "category": "Recyclable",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Gas Grenade",
+    "rarity": "Common",
+    "category": "Quick Use",
+    "values": {
+      "sell": 270,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Gas Grenade Trap",
+    "rarity": "Common",
+    "category": "Quick Use",
+    "values": {
+      "sell": 300,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Great Mullein",
+    "rarity": "Uncommon",
+    "category": "Topside Material",
+    "values": {
+      "sell": 300,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Hairpin",
+    "rarity": "Common",
+    "category": "Pistol",
+    "values": {
+      "sell": 450,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Headphones",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Heavy Ammo",
+    "rarity": "Common",
+    "category": "Ammunition",
+    "values": {
+      "sell": 12,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Heavy Fuze Grenade",
+    "rarity": "Rare",
+    "category": "Quick Use",
+    "values": {
+      "sell": 1600,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Heavy Gun Parts",
+    "rarity": "Rare",
+    "category": "Topside Material",
+    "values": {
+      "sell": 700,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Heavy Shield",
+    "rarity": "Epic",
+    "category": "Shield",
+    "values": {
+      "sell": 5500,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Herbal Bandage",
+    "rarity": "Uncommon",
+    "category": "Quick Use",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Horizontal Grip",
+    "rarity": "Epic",
+    "category": "Modification",
+    "values": {
+      "sell": 7000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Hornet Driver",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Household Cleaner",
+    "rarity": "Uncommon",
+    "category": "Recyclable",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Hullcracker",
+    "rarity": "Epic",
+    "category": "Special",
+    "values": {
+      "sell": 100001300017000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Humidifier",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Ice Cream Scooper",
+    "rarity": "Uncommon",
+    "category": "Recyclable",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Il Toro",
+    "rarity": "Uncommon",
+    "category": "Shotgun",
+    "values": {
+      "sell": 5000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Impure ARC Coolant",
+    "rarity": "Uncommon",
+    "category": "Recyclable",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Industrial Battery",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Industrial Charger",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Industrial Magnet",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Integrated Binoculars",
+    "rarity": "Common",
+    "category": "Quick Use",
+    "values": {
+      "sell": null,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Integrated Shield Recharger",
+    "rarity": "Common",
+    "category": "Quick Use",
+    "values": {
+      "sell": null,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Jolt Mine",
+    "rarity": "Rare",
+    "category": "Quick Use",
+    "values": {
+      "sell": 850,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Jupiter",
+    "rarity": "Legendary",
+    "category": "Sniper Rifle",
+    "values": {
+      "sell": 27500,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Kettle",
+    "rarity": "Common",
+    "category": "Assault Rifle",
+    "values": {
+      "sell": 840,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Kinetic Converter",
+    "rarity": "Legendary",
+    "category": "Modification",
+    "values": {
+      "sell": 7000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Laboratory Reagents",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Lance's Mixtape (5th Edition)",
+    "rarity": "Epic",
+    "category": "Trinket",
+    "values": {
+      "sell": 10000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Launcher Ammo",
+    "rarity": "Rare",
+    "category": "Ammunition",
+    "values": {
+      "sell": 10,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Leaper Pulse Unit",
+    "rarity": "Epic",
+    "category": "Recyclable",
+    "values": {
+      "sell": 5000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Lemon",
+    "rarity": "Uncommon",
+    "category": "Nature",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Li'l Smoke Grenade",
+    "rarity": "Common",
+    "category": "Quick Use",
+    "values": {
+      "sell": 300,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Light Ammo",
+    "rarity": "Common",
+    "category": "Ammunition",
+    "values": {
+      "sell": 4,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Light Bulb",
+    "rarity": "Uncommon",
+    "category": "Trinket",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Light Gun Parts",
+    "rarity": "Rare",
+    "category": "Topside Material",
+    "values": {
+      "sell": 700,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Light Impact Grenade",
+    "rarity": "Common",
+    "category": "Quick Use",
+    "values": {
+      "sell": 270,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Light Shield",
+    "rarity": "Uncommon",
+    "category": "Shield",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Light Stick",
+    "rarity": "Common",
+    "category": "Quick Use",
+    "values": {
+      "sell": 150,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Lightweight Stock",
+    "rarity": "Epic",
+    "category": "Modification",
+    "values": {
+      "sell": 5000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Lure Grenade",
+    "rarity": "Uncommon",
+    "category": "Quick Use",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Lure Grenade Trap",
+    "rarity": "Uncommon",
+    "category": "Quick Use",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Magnet",
+    "rarity": "Uncommon",
+    "category": "Topside Material",
+    "values": {
+      "sell": 300,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Magnetic Accelerator",
+    "rarity": "Epic",
+    "category": "Refined Material",
+    "values": {
+      "sell": 5500,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Medium Ammo",
+    "rarity": "Common",
+    "category": "Ammunition",
+    "values": {
+      "sell": 6,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Medium Gun Parts",
+    "rarity": "Rare",
+    "category": "Topside Material",
+    "values": {
+      "sell": 700,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Medium Shield",
+    "rarity": "Rare",
+    "category": "Shield",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Metal Brackets",
+    "rarity": "Uncommon",
+    "category": "Recyclable",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Metal Parts",
+    "rarity": "Common",
+    "category": "Basic Material",
+    "values": {
+      "sell": 75,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Moss",
+    "rarity": "Rare",
+    "category": "Topside Material",
+    "values": {
+      "sell": 500,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Motor",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Mushroom",
+    "rarity": "Uncommon",
+    "category": "Nature",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Music Album",
+    "rarity": "Rare",
+    "category": "Trinket",
+    "values": {
+      "sell": 3000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Music Box",
+    "rarity": "Rare",
+    "category": "Trinket",
+    "values": {
+      "sell": 5000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Muzzle Brake I",
+    "rarity": "Common",
+    "category": "Modification",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Muzzle Brake II",
+    "rarity": "Uncommon",
+    "category": "Modification",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Muzzle Brake III",
+    "rarity": "Rare",
+    "category": "Modification",
+    "values": {
+      "sell": 5000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Noisemaker",
+    "rarity": "Common",
+    "category": "Quick Use",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Number Plate",
+    "rarity": "Uncommon",
+    "category": "Recyclable",
+    "values": {
+      "sell": 270,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Oil",
+    "rarity": "Uncommon",
+    "category": "Topside Material",
+    "values": {
+      "sell": 300,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Olives",
+    "rarity": "Uncommon",
+    "category": "Nature",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Osprey",
+    "rarity": "Rare",
+    "category": "Sniper Rifle",
+    "values": {
+      "sell": 7000100001300017000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Padded Stock",
+    "rarity": "Epic",
+    "category": "Modification",
+    "values": {
+      "sell": 5000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Painted Box",
+    "rarity": "Common",
+    "category": "Trinket",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Patrol Car Key",
+    "rarity": "Uncommon",
+    "category": "Key",
+    "values": {
+      "sell": 100,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Photoelectric Cloak",
+    "rarity": "Epic",
+    "category": "Quick Use",
+    "values": {
+      "sell": 5000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Plastic Parts",
+    "rarity": "Common",
+    "category": "Basic Material",
+    "values": {
+      "sell": 60,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Playing Cards",
+    "rarity": "Rare",
+    "category": "Trinket",
+    "values": {
+      "sell": 5000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Polluted Air Filter",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Pop Trigger",
+    "rarity": "Common",
+    "category": "Recyclable",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Portable TV",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Poster Of Natural Wonder",
+    "rarity": "Uncommon",
+    "category": "Trinket",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Pottery",
+    "rarity": "Uncommon",
+    "category": "Trinket",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Power Bank",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Power Cable",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Power Rod",
+    "rarity": "Epic",
+    "category": "Advanced Material",
+    "values": {
+      "sell": 5500,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Prickly Pear",
+    "rarity": "Common",
+    "category": "Nature",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Processor",
+    "rarity": "Rare",
+    "category": "Topside Material",
+    "values": {
+      "sell": 500,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Projector",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Queen Reactor",
+    "rarity": "Legendary",
+    "category": "Recyclable",
+    "values": {
+      "sell": 13000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Radio",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Raider Hatch Key",
+    "rarity": "Rare",
+    "category": "Key",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Rattler",
+    "rarity": "Common",
+    "category": "Assault Rifle",
+    "values": {
+      "sell": 1750,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Recorder",
+    "rarity": "Uncommon",
+    "category": "Quick Use",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Red Coral Jewelry",
+    "rarity": "Rare",
+    "category": "Trinket",
+    "values": {
+      "sell": 5000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Remote Control",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Remote Raider Flare",
+    "rarity": "Common",
+    "category": "Quick Use",
+    "values": {
+      "sell": 270,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Renegade",
+    "rarity": "Rare",
+    "category": "Battle Rifle",
+    "values": {
+      "sell": 7000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Resin",
+    "rarity": "Common",
+    "category": "Nature",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Ripped Safety Vest",
+    "rarity": "Uncommon",
+    "category": "Recyclable",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Rocket Thruster",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Rocketeer Driver",
+    "rarity": "Epic",
+    "category": "Recyclable",
+    "values": {
+      "sell": 5000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Roots",
+    "rarity": "Uncommon",
+    "category": "Nature",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Rope",
+    "rarity": "Rare",
+    "category": "Topside Material",
+    "values": {
+      "sell": 500,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Rosary",
+    "rarity": "Rare",
+    "category": "Trinket",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Rubber Duck",
+    "rarity": "Common",
+    "category": "Trinket",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Rubber Pad",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Rubber Parts",
+    "rarity": "Common",
+    "category": "Basic Material",
+    "values": {
+      "sell": 50,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Ruined Accordion",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Ruined Augment",
+    "rarity": null,
+    "category": "Recyclable",
+    "values": {
+      "sell": 270,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Ruined Baton",
+    "rarity": "Uncommon",
+    "category": "Recyclable",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Ruined Handcuffs",
+    "rarity": "Uncommon",
+    "category": "Recyclable",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Ruined Parachute",
+    "rarity": "Uncommon",
+    "category": "Recyclable",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Ruined Riot Shield",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Ruined Tactical Vest",
+    "rarity": "Uncommon",
+    "category": "Recyclable",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Rusted Bolts",
+    "rarity": "Uncommon",
+    "category": "Recyclable",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Rusted Gear",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Rusted Shut Medical Kit",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Rusted Tools",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Rusty ARC Steel",
+    "rarity": "Uncommon",
+    "category": "Recyclable",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Sensors",
+    "rarity": "Rare",
+    "category": "Topside Material",
+    "values": {
+      "sell": 500,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Sentinel Firing Core",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 3000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Shield Recharger",
+    "rarity": "Uncommon",
+    "category": "Quick Use",
+    "values": {
+      "sell": 520,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Shotgun Ammo",
+    "rarity": "Common",
+    "category": "Ammunition",
+    "values": {
+      "sell": 20,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Shotgun Choke I",
+    "rarity": "Common",
+    "category": "Modification",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Shotgun Choke II",
+    "rarity": "Uncommon",
+    "category": "Modification",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Shotgun Choke III",
+    "rarity": "Rare",
+    "category": "Modification",
+    "values": {
+      "sell": 5000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Shotgun Silencer",
+    "rarity": "Epic",
+    "category": "Modification",
+    "values": {
+      "sell": 5000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Showstopper",
+    "rarity": "Rare",
+    "category": "Quick Use",
+    "values": {
+      "sell": 2200,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Shrapnel Grenade",
+    "rarity": "Uncommon",
+    "category": "Quick Use",
+    "values": {
+      "sell": 800,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Silencer I",
+    "rarity": "Uncommon",
+    "category": "Modification",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Silencer II",
+    "rarity": "Rare",
+    "category": "Modification",
+    "values": {
+      "sell": 5000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Silencer III",
+    "rarity": "Epic",
+    "category": "Modification",
+    "values": {
+      "sell": 7000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Silver Teaspoon Set",
+    "rarity": "Rare",
+    "category": "Trinket",
+    "values": {
+      "sell": 3000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Simple Gun Parts",
+    "rarity": "Uncommon",
+    "category": "Topside Material",
+    "values": {
+      "sell": 330,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Smoke Grenade",
+    "rarity": "Rare",
+    "category": "Quick Use",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Smoke Grenade Trap",
+    "rarity": "Rare",
+    "category": "Quick Use",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Snap Blast Grenade",
+    "rarity": "Uncommon",
+    "category": "Quick Use",
+    "values": {
+      "sell": 800,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Snap Hook",
+    "rarity": "Legendary",
+    "category": "Quick Use",
+    "values": {
+      "sell": 14000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Snitch Scanner",
+    "rarity": "Uncommon",
+    "category": "Recyclable",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Spaceport Container Storage Key",
+    "rarity": "Rare",
+    "category": "Key",
+    "values": {
+      "sell": 100,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Spaceport Control Tower Key",
+    "rarity": "Rare",
+    "category": "Key",
+    "values": {
+      "sell": 100,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Spaceport Trench Tower Key",
+    "rarity": "Uncommon",
+    "category": "Key",
+    "values": {
+      "sell": 100,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Spaceport Warehouse Key",
+    "rarity": "Uncommon",
+    "category": "Key",
+    "values": {
+      "sell": 100,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Speaker Component",
+    "rarity": "Rare",
+    "category": "Topside Material",
+    "values": {
+      "sell": 500,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Spotter Relay",
+    "rarity": "Uncommon",
+    "category": "Recyclable",
+    "values": {
+      "sell": 5000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Spring Cushion",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Stable Stock I",
+    "rarity": "Common",
+    "category": "Modification",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Stack Stock II",
+    "rarity": "Uncommon",
+    "category": "Modification",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Stable Stock III",
+    "rarity": "Rare",
+    "category": "Modification",
+    "values": {
+      "sell": 5000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Statuette",
+    "rarity": "Rare",
+    "category": "Trinket",
+    "values": {
+      "sell": 3000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Steel Spring",
+    "rarity": "Uncommon",
+    "category": "Topside Material",
+    "values": {
+      "sell": 300,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Sterilized Bandage",
+    "rarity": "Rare",
+    "category": "Quick Use",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Stitcher",
+    "rarity": "Common",
+    "category": "SMG",
+    "values": {
+      "sell": 800,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Surge Shield Recharger",
+    "rarity": "Rare",
+    "category": "Quick Use",
+    "values": {
+      "sell": 1200,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Surveyor Vault",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Synthesized Fuel",
+    "rarity": "Rare",
+    "category": "Topside Material",
+    "values": {
+      "sell": 700,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Syringe",
+    "rarity": "Rare",
+    "category": "Topside Material",
+    "values": {
+      "sell": 500,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Tactical Mk. 1",
+    "rarity": "Uncommon",
+    "category": "Augment",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Tactical Mk. 2",
+    "rarity": "Rare",
+    "category": "Augment",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Tactical Mk. 3 (Defensive)",
+    "rarity": "Epic",
+    "category": "Augment",
+    "values": {
+      "sell": 5000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Tactical Mk. 3 (Healing)",
+    "rarity": "Epic",
+    "category": "Augment",
+    "values": {
+      "sell": 5000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Tagging Grenade",
+    "rarity": "Rare",
+    "category": "Quick Use",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Tattered ARC Lining",
+    "rarity": "Uncommon",
+    "category": "Recyclable",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Tattered Clothes",
+    "rarity": "Uncommon",
+    "category": "Recyclable",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Tempest",
+    "rarity": "Epic",
+    "category": "Assault Rifle",
+    "values": {
+      "sell": 13000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Thermostat",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Tick Pod",
+    "rarity": "Uncommon",
+    "category": "Recyclable",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Toaster",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Torn Blanket",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Torn Book",
+    "rarity": "Common",
+    "category": "Trinket",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Torrente",
+    "rarity": "Rare",
+    "category": "LMG",
+    "values": {
+      "sell": 7000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Trigger 'Nade",
+    "rarity": "Rare",
+    "category": "Quick Use",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Turbo Pump",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Unusable Weapon",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Vase",
+    "rarity": "Rare",
+    "category": "Trinket",
+    "values": {
+      "sell": 3000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Venator",
+    "rarity": "Rare",
+    "category": "Pistol",
+    "values": {
+      "sell": 7000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Vertical Grip I",
+    "rarity": "Common",
+    "category": "Modification",
+    "values": {
+      "sell": 640,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Vertical Grip II",
+    "rarity": "Uncommon",
+    "category": "Modification",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Vertical Grip III",
+    "rarity": "Rare",
+    "category": "Modification",
+    "values": {
+      "sell": 5000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Very Comfortable Pillow",
+    "rarity": "Uncommon",
+    "category": "Trinket",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Vita Shot",
+    "rarity": "Rare",
+    "category": "Quick Use",
+    "values": {
+      "sell": 2000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Vita Spray",
+    "rarity": "Epic",
+    "category": "Quick Use",
+    "values": {
+      "sell": 3000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Volcanic Rock",
+    "rarity": "Common",
+    "category": "Misc",
+    "values": {
+      "sell": 270,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Voltage Converter",
+    "rarity": "Rare",
+    "category": "Topside Material",
+    "values": {
+      "sell": 500,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Vulcano",
+    "rarity": "Epic",
+    "category": "Shotgun",
+    "values": {
+      "sell": 10000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Wasp Driver",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Water Filter",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Water Pump",
+    "rarity": "Rare",
+    "category": "Recyclable",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Wires",
+    "rarity": "Uncommon",
+    "category": "Topside Material",
+    "values": {
+      "sell": 200,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Wolfpack",
+    "rarity": "Epic",
+    "category": "Quick Use",
+    "values": {
+      "sell": 3000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  },
+  {
+    "name": "Zipline",
+    "rarity": "Rare",
+    "category": "Quick Use",
+    "values": {
+      "sell": 1000,
+      "recycle": {}
+    },
+    "components": [],
+    "requirements": {
+      "workshop": [],
+      "quests": [],
+      "crafting": []
+    }
+  }
+]
