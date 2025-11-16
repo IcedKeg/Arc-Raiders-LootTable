@@ -4,8 +4,6 @@
   }
 
   const FALLBACK_CELL_COLOR = '#1a1d24';
-  const PLACEHOLDER_IMAGE =
-    'data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==';
 
   function nameToFilename(name) {
     return (
@@ -58,16 +56,17 @@
       const tr = document.createElement('tr');
       const formattedDelta = app.formatDelta(item.delta_sell);
       const recommendation = app.safeToSell(item);
+      const safeSellStatus = app.getSafeToSellStatus(item);
       const imageFile = imageOverrides[item.name] || nameToFilename(item.name);
       const imagePath = encodeURI(`./assets/images/${imageFile}`);
       const gradientColor = getGradientColor(item.delta_sell, minDelta, maxDelta);
 
       tr.innerHTML = `
-        <td>
+        <td class="image-cell">
           <img src="${imagePath}"
                alt="${item.name}"
                class="item-image"
-               onerror="this.onerror=null;this.src='${PLACEHOLDER_IMAGE}';" />
+               onerror="this.onerror=null;this.style.display='none';this.closest('td').classList.add('image-missing');" />
         </td>
         <td>${item.name}</td>
         <td class="rarity rarity-${(item.rarity || 'common').toLowerCase()}">
@@ -79,6 +78,7 @@
         <td style="background-color:${gradientColor}; font-weight:bold;" title="${recommendation}">
           ${formattedDelta}
         </td>
+        <td class="safe-sell">${safeSellStatus}</td>
       `;
 
       tbody.appendChild(tr);

@@ -84,12 +84,27 @@ tbody tr:hover {
   height: 75px;
   object-fit: contain;
   border-radius: 8px;
-  background: transparent;
+  background: #1a1d24;
 }
 
 .delta {
   text-align: right;
   font-weight: bold;
+}
+
+.image-cell {
+  width: 90px;
+  background: #1a1d24;
+}
+
+.image-cell.image-missing {
+  background: #1a1d24;
+}
+
+.safe-sell {
+  text-align: center;
+  color: #888;
+  font-style: italic;
 }
 
 

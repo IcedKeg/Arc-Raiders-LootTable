@@ -20,6 +20,11 @@
     return Number(value) > 0 ? `+${rounded}` : rounded;
   }
 
+  function getSafeToSellStatus(_item) {
+    return '—';
+  }
+
   app.safeToSell = safeToSell;
   app.formatDelta = formatDelta;
+  app.getSafeToSellStatus = getSafeToSellStatus;
 })(window.LootApp);
