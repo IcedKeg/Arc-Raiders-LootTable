@@ -5,7 +5,9 @@
     "category": "Quick Use",
     "values": {
       "sell": 300,
-      "recycle": {}
+      "recycle": {
+        "Plastic Parts": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -20,7 +22,9 @@
     "category": "Topside Material",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "ARC Powercell": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -35,7 +39,9 @@
     "category": "Nature",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Assorted Seeds": 3
+      }
     },
     "components": [],
     "requirements": {
@@ -80,7 +86,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Plastic Parts": 6,
+        "Processor": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -95,7 +104,9 @@
     "category": "Modification",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Plastic Parts": 6
+      }
     },
     "components": [],
     "requirements": {
@@ -110,7 +121,9 @@
     "category": "Modification",
     "values": {
       "sell": 2000,
-      "recycle": {}
+      "recycle": {
+        "Duct Tape": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -125,7 +138,9 @@
     "category": "Modification",
     "values": {
       "sell": 5000,
-      "recycle": {}
+      "recycle": {
+        "Duct Tape": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -140,7 +155,9 @@
     "category": "Refined Material",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Chemicals": 10
+      }
     },
     "components": [],
     "requirements": {
@@ -155,7 +172,10 @@
     "category": "Hand Cannon",
     "values": {
       "sell": 5000,
-      "recycle": {}
+      "recycle": {
+        "Mechanical Components": 14,
+        "Simple Gun Parts": 5
+      }
     },
     "components": [],
     "requirements": {
@@ -170,7 +190,9 @@
     "category": "Modification",
     "values": {
       "sell": 7000,
-      "recycle": {}
+      "recycle": {
+        "Processor": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -185,7 +207,9 @@
     "category": "Nature",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Assorted Seeds": 3
+      }
     },
     "components": [],
     "requirements": {
@@ -200,7 +224,9 @@
     "category": "Topside Material",
     "values": {
       "sell": 200,
-      "recycle": {}
+      "recycle": {
+        "Metal Parts": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -215,7 +241,9 @@
     "category": "Topside Material",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "ARC Alloy": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -230,7 +258,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Chemicals": 16
+      }
     },
     "components": [],
     "requirements": {
@@ -245,7 +275,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Rubber Parts": 16
+      }
     },
     "components": [],
     "requirements": {
@@ -260,7 +292,9 @@
     "category": "Topside Material",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "ARC Alloy": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -275,7 +309,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Metal Parts": 12
+      }
     },
     "components": [],
     "requirements": {
@@ -305,7 +341,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Plastic Parts": 14
+      }
     },
     "components": [],
     "requirements": {
@@ -320,7 +358,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Fabric": 16
+      }
     },
     "components": [],
     "requirements": {
@@ -335,7 +375,10 @@
     "category": "Assault Rifle",
     "values": {
       "sell": 5500,
-      "recycle": {}
+      "recycle": {
+        "Mechanical Components": 14,
+        "Simple Gun Parts": 5
+      }
     },
     "components": [],
     "requirements": {
@@ -365,7 +408,9 @@
     "category": "Quick Use",
     "values": {
       "sell": 250,
-      "recycle": {}
+      "recycle": {
+        "Fabric": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -380,7 +425,9 @@
     "category": "Quick Use",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Metal Parts": 4
+      }
     },
     "components": [],
     "requirements": {
@@ -395,7 +442,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 5000,
-      "recycle": {}
+      "recycle": {
+        "ARC Motion Core": 2,
+        "Advanced Mechanical Components": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -410,7 +460,9 @@
     "category": "Topside Material",
     "values": {
       "sell": 250,
-      "recycle": {}
+      "recycle": {
+        "Metal Parts": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -425,7 +477,10 @@
     "category": "Assault Rifle",
     "values": {
       "sell": 8000,
-      "recycle": {}
+      "recycle": {
+        "Advanced Mechanical Components": 8,
+        "Heavy Gun Parts": 3
+      }
     },
     "components": [],
     "requirements": {
@@ -440,7 +495,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 2000,
-      "recycle": {}
+      "recycle": {
+        "Canister": 4,
+        "Metal Parts": 10
+      }
     },
     "components": [],
     "requirements": {
@@ -455,7 +513,9 @@
     "category": "Quick Use",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Rubber Parts": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -470,7 +530,9 @@
     "category": "Quick Use",
     "values": {
       "sell": 1600,
-      "recycle": {}
+      "recycle": {
+        "Metal Parts": 4
+      }
     },
     "components": [],
     "requirements": {
@@ -590,7 +652,10 @@
     "category": "SMG",
     "values": {
       "sell": 17000,
-      "recycle": {}
+      "recycle": {
+        "Advanced Mechanical Components": 14,
+        "Light Gun Parts": 4
+      }
     },
     "components": [],
     "requirements": {
@@ -605,7 +670,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 5000,
-      "recycle": {}
+      "recycle": {
+        "Advanced Mechanical Components": 2,
+        "ARC Alloy": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -635,7 +703,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Battery": 2,
+        "Metal Parts": 6
+      }
     },
     "components": [],
     "requirements": {
@@ -650,7 +721,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 2000,
-      "recycle": {}
+      "recycle": {
+        "Processor": 4
+      }
     },
     "components": [],
     "requirements": {
@@ -665,7 +738,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 2000,
-      "recycle": {}
+      "recycle": {
+        "Sensors": 3,
+        "Wires": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -680,7 +756,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Wires": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -755,7 +833,10 @@
     "category": "Pistol",
     "values": {
       "sell": 2900,
-      "recycle": {}
+      "recycle": {
+        "Mechanical Components": 10,
+        "Simple Gun Parts": 4
+      }
     },
     "components": [],
     "requirements": {
@@ -770,7 +851,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "ARC Alloy": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -785,7 +868,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Plastic Parts": 8
+      }
     },
     "components": [],
     "requirements": {
@@ -800,7 +885,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Metal Parts": 8
+      }
     },
     "components": [],
     "requirements": {
@@ -815,7 +902,9 @@
     "category": "Topside Material",
     "values": {
       "sell": 300,
-      "recycle": {}
+      "recycle": {
+        "Plastic Parts": 3
+      }
     },
     "components": [],
     "requirements": {
@@ -875,7 +964,10 @@
     "category": "Augment",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Combat Mk": 1,
+        "Rubber Parts": 3
+      }
     },
     "components": [],
     "requirements": {
@@ -890,7 +982,10 @@
     "category": "Augment",
     "values": {
       "sell": 2000,
-      "recycle": {}
+      "recycle": {
+        "Combat Mk": 1,
+        "Magnet": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -905,7 +1000,10 @@
     "category": "Augment",
     "values": {
       "sell": 5000,
-      "recycle": {}
+      "recycle": {
+        "Combat Mk": 1,
+        "Processor": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -920,7 +1018,10 @@
     "category": "Augment",
     "values": {
       "sell": 3000,
-      "recycle": {}
+      "recycle": {
+        "Combat Mk": 1,
+        "Processor": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -935,7 +1036,9 @@
     "category": "Modification",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Metal Parts": 5
+      }
     },
     "components": [],
     "requirements": {
@@ -950,7 +1053,9 @@
     "category": "Modification",
     "values": {
       "sell": 2000,
-      "recycle": {}
+      "recycle": {
+        "Wires": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -980,7 +1085,9 @@
     "category": "Topside Material",
     "values": {
       "sell": 2000,
-      "recycle": {}
+      "recycle": {
+        "Simple Gun Parts": 3
+      }
     },
     "components": [],
     "requirements": {
@@ -995,7 +1102,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Chemicals": 5,
+        "Oil": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -1010,7 +1120,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Chemicals": 6,
+        "Steel Spring": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -1025,7 +1138,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 2000,
-      "recycle": {}
+      "recycle": {
+        "Plastic Parts": 14,
+        "Wires": 4
+      }
     },
     "components": [],
     "requirements": {
@@ -1040,7 +1156,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Rubber Parts": 3,
+        "Battery": 3
+      }
     },
     "components": [],
     "requirements": {
@@ -1055,7 +1174,9 @@
     "category": "Refined Material",
     "values": {
       "sell": 270,
-      "recycle": {}
+      "recycle": {
+        "Chemicals": 3
+      }
     },
     "components": [],
     "requirements": {
@@ -1070,7 +1191,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 270,
-      "recycle": {}
+      "recycle": {
+        "Plastic Parts": 4
+      }
     },
     "components": [],
     "requirements": {
@@ -1160,7 +1283,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "ARC Alloy": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -1175,7 +1300,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 293,
-      "recycle": {}
+      "recycle": {
+        "ARC Alloy": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -1190,7 +1317,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 270,
-      "recycle": {}
+      "recycle": {
+        "ARC Alloy": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -1205,7 +1334,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Metal Parts": 6,
+        "Wires": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -1220,7 +1352,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "ARC Alloy": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -1235,7 +1369,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 2000,
-      "recycle": {}
+      "recycle": {
+        "ARC Alloy": 3
+      }
     },
     "components": [],
     "requirements": {
@@ -1265,7 +1401,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 270,
-      "recycle": {}
+      "recycle": {
+        "ARC Alloy": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -1280,7 +1418,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 270,
-      "recycle": {}
+      "recycle": {
+        "ARC Alloy": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -1310,7 +1450,9 @@
     "category": "Quick Use",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Moss": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -1325,7 +1467,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Rubber Parts": 9,
+        "Fabric": 9
+      }
     },
     "components": [],
     "requirements": {
@@ -1340,7 +1485,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Rubber Parts": 11
+      }
     },
     "components": [],
     "requirements": {
@@ -1355,7 +1502,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Rubber Parts": 12
+      }
     },
     "components": [],
     "requirements": {
@@ -1370,7 +1519,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Fabric": 8,
+        "Metal Parts": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -1385,7 +1537,9 @@
     "category": "Quick Use",
     "values": {
       "sell": 270,
-      "recycle": {}
+      "recycle": {
+        "Metal Parts": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -1400,7 +1554,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Plastic Parts": 9
+      }
     },
     "components": [],
     "requirements": {
@@ -1430,7 +1586,9 @@
     "category": "Refined Material",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Fabric": 6
+      }
     },
     "components": [],
     "requirements": {
@@ -1475,7 +1633,10 @@
     "category": "Special",
     "values": {
       "sell": 27500,
-      "recycle": {}
+      "recycle": {
+        "Magnetic Accelerator": 2,
+        "Complex Gun Parts": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -1490,7 +1651,10 @@
     "category": "Topside Material",
     "values": {
       "sell": 2750,
-      "recycle": {}
+      "recycle": {
+        "Magnet": 2,
+        "Processor": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -1520,7 +1684,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Rubber Parts": 8,
+        "Fabric": 4
+      }
     },
     "components": [],
     "requirements": {
@@ -1535,7 +1702,9 @@
     "category": "Refined Material",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Crude Explosives": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -1550,7 +1719,9 @@
     "category": "Quick Use",
     "values": {
       "sell": 1500,
-      "recycle": {}
+      "recycle": {
+        "Sensors": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -1565,7 +1736,9 @@
     "category": "Modification",
     "values": {
       "sell": 5000,
-      "recycle": {}
+      "recycle": {
+        "Wires": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -1580,7 +1753,9 @@
     "category": "Modification",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Plastic Parts": 6
+      }
     },
     "components": [],
     "requirements": {
@@ -1595,7 +1770,9 @@
     "category": "Modification",
     "values": {
       "sell": 2000,
-      "recycle": {}
+      "recycle": {
+        "Steel Spring": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -1610,7 +1787,9 @@
     "category": "Modification",
     "values": {
       "sell": 5000,
-      "recycle": {}
+      "recycle": {
+        "Steel Spring": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -1625,7 +1804,9 @@
     "category": "Modification",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Plastic Parts": 6
+      }
     },
     "components": [],
     "requirements": {
@@ -1640,7 +1821,9 @@
     "category": "Modification",
     "values": {
       "sell": 2000,
-      "recycle": {}
+      "recycle": {
+        "Steel Spring": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -1655,7 +1838,9 @@
     "category": "Modification",
     "values": {
       "sell": 5000,
-      "recycle": {}
+      "recycle": {
+        "Steel Spring": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -1670,7 +1855,9 @@
     "category": "Modification",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Plastic Parts": 6
+      }
     },
     "components": [],
     "requirements": {
@@ -1685,7 +1872,9 @@
     "category": "Modification",
     "values": {
       "sell": 2000,
-      "recycle": {}
+      "recycle": {
+        "Steel Spring": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -1700,7 +1889,9 @@
     "category": "Modification",
     "values": {
       "sell": 5000,
-      "recycle": {}
+      "recycle": {
+        "Steel Spring": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -1745,7 +1936,11 @@
     "category": "Battle Rifle",
     "values": {
       "sell": 475,
-      "recycle": {}
+      "recycle": {
+        "Metal Parts": 10,
+        "Mechanical Components": 1,
+        "Simple Gun Parts": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -1760,7 +1955,9 @@
     "category": "Nature",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Assorted Seeds": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -1805,7 +2002,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "ARC Alloy": 1,
+        "Chemicals": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -1820,7 +2020,9 @@
     "category": "Quick Use",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Fireball Burner": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -1850,7 +2052,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 2000,
-      "recycle": {}
+      "recycle": {
+        "Plastic Parts": 5,
+        "Electrical Components": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -1880,7 +2085,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Metal Parts": 8
+      }
     },
     "components": [],
     "requirements": {
@@ -1895,7 +2102,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Metal Parts": 12
+      }
     },
     "components": [],
     "requirements": {
@@ -1940,7 +2149,9 @@
     "category": "Topside Material",
     "values": {
       "sell": 300,
-      "recycle": {}
+      "recycle": {
+        "Assorted Seeds": 4
+      }
     },
     "components": [],
     "requirements": {
@@ -1955,7 +2166,11 @@
     "category": "Pistol",
     "values": {
       "sell": 450,
-      "recycle": {}
+      "recycle": {
+        "Metal Parts": 12,
+        "Mechanical Components": 1,
+        "Simple Gun Parts": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -1970,7 +2185,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Rubber Parts": 7,
+        "Speaker Component": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -2000,7 +2218,9 @@
     "category": "Quick Use",
     "values": {
       "sell": 1600,
-      "recycle": {}
+      "recycle": {
+        "Rubber Parts": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -2015,7 +2235,9 @@
     "category": "Topside Material",
     "values": {
       "sell": 700,
-      "recycle": {}
+      "recycle": {
+        "Simple Gun Parts": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -2030,7 +2252,9 @@
     "category": "Shield",
     "values": {
       "sell": 5500,
-      "recycle": {}
+      "recycle": {
+        "Voltage Converter": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -2045,7 +2269,9 @@
     "category": "Quick Use",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Fabric": 5
+      }
     },
     "components": [],
     "requirements": {
@@ -2060,7 +2286,9 @@
     "category": "Modification",
     "values": {
       "sell": 7000,
-      "recycle": {}
+      "recycle": {
+        "Duct Tape": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -2075,7 +2303,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 2000,
-      "recycle": {}
+      "recycle": {
+        "ARC Alloy": 2,
+        "Electrical Components": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -2090,7 +2321,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Chemicals": 11
+      }
     },
     "components": [],
     "requirements": {
@@ -2105,7 +2338,10 @@
     "category": "Special",
     "values": {
       "sell": 100001300017000,
-      "recycle": {}
+      "recycle": {
+        "Advanced Mechanical Components": 11,
+        "Heavy Gun Parts": 5
+      }
     },
     "components": [],
     "requirements": {
@@ -2120,7 +2356,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Canister": 2,
+        "Wires": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -2135,7 +2374,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Metal Parts": 7
+      }
     },
     "components": [],
     "requirements": {
@@ -2150,7 +2391,10 @@
     "category": "Shotgun",
     "values": {
       "sell": 5000,
-      "recycle": {}
+      "recycle": {
+        "Mechanical Components": 14,
+        "Simple Gun Parts": 5
+      }
     },
     "components": [],
     "requirements": {
@@ -2165,7 +2409,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Chemicals": 12
+      }
     },
     "components": [],
     "requirements": {
@@ -2180,7 +2426,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Chemicals": 7,
+        "Battery": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -2195,7 +2444,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Metal Parts": 5,
+        "Voltage Converter": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -2210,7 +2462,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Magnet": 2,
+        "Metal Parts": 4
+      }
     },
     "components": [],
     "requirements": {
@@ -2255,7 +2510,9 @@
     "category": "Quick Use",
     "values": {
       "sell": 850,
-      "recycle": {}
+      "recycle": {
+        "Plastic Parts": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -2270,7 +2527,9 @@
     "category": "Sniper Rifle",
     "values": {
       "sell": 27500,
-      "recycle": {}
+      "recycle": {
+        "Magnetic Accelerator": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -2285,7 +2544,11 @@
     "category": "Assault Rifle",
     "values": {
       "sell": 840,
-      "recycle": {}
+      "recycle": {
+        "Metal Parts": 21,
+        "Mechanical Components": 2,
+        "Simple Gun Parts": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -2300,7 +2563,9 @@
     "category": "Modification",
     "values": {
       "sell": 7000,
-      "recycle": {}
+      "recycle": {
+        "Duct Tape": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -2315,7 +2580,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 2000,
-      "recycle": {}
+      "recycle": {
+        "Chemicals": 16,
+        "Crude Explosives": 3
+      }
     },
     "components": [],
     "requirements": {
@@ -2360,7 +2628,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 5000,
-      "recycle": {}
+      "recycle": {
+        "Advanced Mechanical Components": 2,
+        "ARC Alloy": 3
+      }
     },
     "components": [],
     "requirements": {
@@ -2390,7 +2661,10 @@
     "category": "Quick Use",
     "values": {
       "sell": 300,
-      "recycle": {}
+      "recycle": {
+        "Chemicals": 1,
+        "Plastic Parts": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -2435,7 +2709,9 @@
     "category": "Topside Material",
     "values": {
       "sell": 700,
-      "recycle": {}
+      "recycle": {
+        "Simple Gun Parts": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -2465,7 +2741,9 @@
     "category": "Shield",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Plastic Parts": 4
+      }
     },
     "components": [],
     "requirements": {
@@ -2480,7 +2758,9 @@
     "category": "Quick Use",
     "values": {
       "sell": 150,
-      "recycle": {}
+      "recycle": {
+        "Chemicals": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -2495,7 +2775,9 @@
     "category": "Modification",
     "values": {
       "sell": 5000,
-      "recycle": {}
+      "recycle": {
+        "Duct Tape": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -2510,7 +2792,9 @@
     "category": "Quick Use",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Speaker Component": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -2540,7 +2824,9 @@
     "category": "Topside Material",
     "values": {
       "sell": 300,
-      "recycle": {}
+      "recycle": {
+        "Metal Parts": 3
+      }
     },
     "components": [],
     "requirements": {
@@ -2555,7 +2841,9 @@
     "category": "Refined Material",
     "values": {
       "sell": 5500,
-      "recycle": {}
+      "recycle": {
+        "ARC Motion Core": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -2585,7 +2873,9 @@
     "category": "Topside Material",
     "values": {
       "sell": 700,
-      "recycle": {}
+      "recycle": {
+        "Simple Gun Parts": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -2600,7 +2890,9 @@
     "category": "Shield",
     "values": {
       "sell": 2000,
-      "recycle": {}
+      "recycle": {
+        "ARC Circuitry": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -2615,7 +2907,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Metal Parts": 8
+      }
     },
     "components": [],
     "requirements": {
@@ -2645,7 +2939,9 @@
     "category": "Topside Material",
     "values": {
       "sell": 500,
-      "recycle": {}
+      "recycle": {
+        "Assorted Seeds": 3
+      }
     },
     "components": [],
     "requirements": {
@@ -2660,7 +2956,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 2000,
-      "recycle": {}
+      "recycle": {
+        "Mechanical Components": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -2720,7 +3018,9 @@
     "category": "Modification",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Metal Parts": 5
+      }
     },
     "components": [],
     "requirements": {
@@ -2735,7 +3035,9 @@
     "category": "Modification",
     "values": {
       "sell": 2000,
-      "recycle": {}
+      "recycle": {
+        "Wires": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -2750,7 +3052,9 @@
     "category": "Modification",
     "values": {
       "sell": 5000,
-      "recycle": {}
+      "recycle": {
+        "Wires": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -2780,7 +3084,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 270,
-      "recycle": {}
+      "recycle": {
+        "Metal Parts": 3
+      }
     },
     "components": [],
     "requirements": {
@@ -2795,7 +3101,9 @@
     "category": "Topside Material",
     "values": {
       "sell": 300,
-      "recycle": {}
+      "recycle": {
+        "Chemicals": 3
+      }
     },
     "components": [],
     "requirements": {
@@ -2810,7 +3118,9 @@
     "category": "Nature",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Assorted Seeds": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -2825,7 +3135,10 @@
     "category": "Sniper Rifle",
     "values": {
       "sell": 7000100001300017000,
-      "recycle": {}
+      "recycle": {
+        "Advanced Mechanical Components": 8,
+        "Medium Gun Parts": 3
+      }
     },
     "components": [],
     "requirements": {
@@ -2840,7 +3153,9 @@
     "category": "Modification",
     "values": {
       "sell": 5000,
-      "recycle": {}
+      "recycle": {
+        "Duct Tape": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -2885,7 +3200,9 @@
     "category": "Quick Use",
     "values": {
       "sell": 5000,
-      "recycle": {}
+      "recycle": {
+        "Speaker Component": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -2930,7 +3247,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Oil": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -2945,7 +3264,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "ARC Alloy": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -2960,7 +3281,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 2000,
-      "recycle": {}
+      "recycle": {
+        "Wires": 6
+      }
     },
     "components": [],
     "requirements": {
@@ -3005,7 +3328,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Wires": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -3020,7 +3345,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Wires": 4
+      }
     },
     "components": [],
     "requirements": {
@@ -3035,7 +3362,10 @@
     "category": "Advanced Material",
     "values": {
       "sell": 5500,
-      "recycle": {}
+      "recycle": {
+        "Advanced Electrical Components": 1,
+        "ARC Circuitry": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -3050,7 +3380,9 @@
     "category": "Nature",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Assorted Seeds": 3
+      }
     },
     "components": [],
     "requirements": {
@@ -3065,7 +3397,10 @@
     "category": "Topside Material",
     "values": {
       "sell": 500,
-      "recycle": {}
+      "recycle": {
+        "Wires": 1,
+        "Plastic Parts": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -3080,7 +3415,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Wires": 2,
+        "Processor": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -3095,7 +3433,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 13000,
-      "recycle": {}
+      "recycle": {
+        "Power Rod": 1,
+        "Magnetic Accelerator": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -3110,7 +3451,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Speaker Component": 1,
+        "Sensors": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -3140,7 +3484,10 @@
     "category": "Assault Rifle",
     "values": {
       "sell": 1750,
-      "recycle": {}
+      "recycle": {
+        "Mechanical Components": 7,
+        "Simple Gun Parts": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -3155,7 +3502,9 @@
     "category": "Quick Use",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Plastic Parts": 10
+      }
     },
     "components": [],
     "requirements": {
@@ -3185,7 +3534,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Plastic Parts": 7,
+        "Sensors": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -3200,7 +3552,9 @@
     "category": "Quick Use",
     "values": {
       "sell": 270,
-      "recycle": {}
+      "recycle": {
+        "Rubber Parts": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -3215,7 +3569,10 @@
     "category": "Battle Rifle",
     "values": {
       "sell": 7000,
-      "recycle": {}
+      "recycle": {
+        "Advanced Mechanical Components": 8,
+        "Medium Gun Parts": 3
+      }
     },
     "components": [],
     "requirements": {
@@ -3245,7 +3602,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Magnet": 1,
+        "Durable Cloth": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -3260,7 +3620,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 2000,
-      "recycle": {}
+      "recycle": {
+        "Synthesized Fuel": 2,
+        "Metal Parts": 6
+      }
     },
     "components": [],
     "requirements": {
@@ -3275,7 +3638,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 5000,
-      "recycle": {}
+      "recycle": {
+        "Advanced Electrical Components": 2,
+        "ARC Alloy": 3
+      }
     },
     "components": [],
     "requirements": {
@@ -3290,7 +3656,9 @@
     "category": "Nature",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Assorted Seeds": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -3305,7 +3673,9 @@
     "category": "Topside Material",
     "values": {
       "sell": 500,
-      "recycle": {}
+      "recycle": {
+        "Fabric": 5
+      }
     },
     "components": [],
     "requirements": {
@@ -3350,7 +3720,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Rubber Parts": 18
+      }
     },
     "components": [],
     "requirements": {
@@ -3380,7 +3752,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 2000,
-      "recycle": {}
+      "recycle": {
+        "Rubber Parts": 18,
+        "Steel Spring": 3
+      }
     },
     "components": [],
     "requirements": {
@@ -3395,7 +3770,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 270,
-      "recycle": {}
+      "recycle": {
+        "Plastic Parts": 2,
+        "Rubber Parts": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -3410,7 +3788,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Metal Parts": 6,
+        "Rubber Parts": 3
+      }
     },
     "components": [],
     "requirements": {
@@ -3425,7 +3806,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Metal Parts": 8
+      }
     },
     "components": [],
     "requirements": {
@@ -3440,7 +3823,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Fabric": 10
+      }
     },
     "components": [],
     "requirements": {
@@ -3455,7 +3840,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Plastic Parts": 10,
+        "Rubber Parts": 6
+      }
     },
     "components": [],
     "requirements": {
@@ -3470,7 +3858,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Fabric": 5,
+        "Magnet": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -3485,7 +3876,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Metal Parts": 8
+      }
     },
     "components": [],
     "requirements": {
@@ -3500,7 +3893,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 2000,
-      "recycle": {}
+      "recycle": {
+        "Metal Parts": 4,
+        "Mechanical Components": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -3515,7 +3911,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 2000,
-      "recycle": {}
+      "recycle": {
+        "Syringe": 2,
+        "Antiseptic": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -3530,7 +3929,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Metal Parts": 8,
+        "Steel Spring": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -3545,7 +3947,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Metal Parts": 8
+      }
     },
     "components": [],
     "requirements": {
@@ -3560,7 +3964,10 @@
     "category": "Topside Material",
     "values": {
       "sell": 500,
-      "recycle": {}
+      "recycle": {
+        "Wires": 1,
+        "Metal Parts": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -3575,7 +3982,10 @@
     "category": "Recyclable",
     "values": {
       "sell": 3000,
-      "recycle": {}
+      "recycle": {
+        "ARC Alloy": 2,
+        "Mechanical Components": 3
+      }
     },
     "components": [],
     "requirements": {
@@ -3590,7 +4000,9 @@
     "category": "Quick Use",
     "values": {
       "sell": 520,
-      "recycle": {}
+      "recycle": {
+        "Rubber Parts": 16
+      }
     },
     "components": [],
     "requirements": {
@@ -3620,7 +4032,9 @@
     "category": "Modification",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Metal Parts": 5
+      }
     },
     "components": [],
     "requirements": {
@@ -3635,7 +4049,9 @@
     "category": "Modification",
     "values": {
       "sell": 2000,
-      "recycle": {}
+      "recycle": {
+        "Wires": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -3665,7 +4081,9 @@
     "category": "Modification",
     "values": {
       "sell": 5000,
-      "recycle": {}
+      "recycle": {
+        "Wires": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -3680,7 +4098,9 @@
     "category": "Quick Use",
     "values": {
       "sell": 2200,
-      "recycle": {}
+      "recycle": {
+        "Electrical Components": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -3695,7 +4115,9 @@
     "category": "Quick Use",
     "values": {
       "sell": 800,
-      "recycle": {}
+      "recycle": {
+        "Metal Parts": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -3710,7 +4132,9 @@
     "category": "Modification",
     "values": {
       "sell": 2000,
-      "recycle": {}
+      "recycle": {
+        "Wires": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -3725,7 +4149,9 @@
     "category": "Modification",
     "values": {
       "sell": 5000,
-      "recycle": {}
+      "recycle": {
+        "Wires": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -3740,7 +4166,9 @@
     "category": "Modification",
     "values": {
       "sell": 7000,
-      "recycle": {}
+      "recycle": {
+        "Wires": 3
+      }
     },
     "components": [],
     "requirements": {
@@ -3770,7 +4198,9 @@
     "category": "Topside Material",
     "values": {
       "sell": 330,
-      "recycle": {}
+      "recycle": {
+        "Metal Parts": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -3815,7 +4245,10 @@
     "category": "Quick Use",
     "values": {
       "sell": 800,
-      "recycle": {}
+      "recycle": {
+        "Chemicals": 1,
+        "Magnet": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -3830,7 +4263,10 @@
     "category": "Quick Use",
     "values": {
       "sell": 14000,
-      "recycle": {}
+      "recycle": {
+        "Power Rod": 1,
+        "Rope": 3
+      }
     },
     "components": [],
     "requirements": {
@@ -3845,7 +4281,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 2000,
-      "recycle": {}
+      "recycle": {
+        "Electrical Components": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -3920,7 +4358,9 @@
     "category": "Topside Material",
     "values": {
       "sell": 500,
-      "recycle": {}
+      "recycle": {
+        "Rubber Parts": 3
+      }
     },
     "components": [],
     "requirements": {
@@ -3935,7 +4375,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 5000,
-      "recycle": {}
+      "recycle": {
+        "ARC Alloy": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -3950,7 +4392,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 2000,
-      "recycle": {}
+      "recycle": {
+        "Steel Spring": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -3965,7 +4409,9 @@
     "category": "Modification",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Rubber Parts": 6
+      }
     },
     "components": [],
     "requirements": {
@@ -3980,7 +4426,9 @@
     "category": "Modification",
     "values": {
       "sell": 2000,
-      "recycle": {}
+      "recycle": {
+        "Duct Tape": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -3995,7 +4443,9 @@
     "category": "Modification",
     "values": {
       "sell": 5000,
-      "recycle": {}
+      "recycle": {
+        "Duct Tape": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -4025,7 +4475,9 @@
     "category": "Topside Material",
     "values": {
       "sell": 300,
-      "recycle": {}
+      "recycle": {
+        "Metal Parts": 3
+      }
     },
     "components": [],
     "requirements": {
@@ -4040,7 +4492,9 @@
     "category": "Quick Use",
     "values": {
       "sell": 2000,
-      "recycle": {}
+      "recycle": {
+        "Antiseptic": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -4055,7 +4509,11 @@
     "category": "SMG",
     "values": {
       "sell": 800,
-      "recycle": {}
+      "recycle": {
+        "Metal Parts": 21,
+        "Mechanical Components": 2,
+        "Simple Gun Parts": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -4070,7 +4528,9 @@
     "category": "Quick Use",
     "values": {
       "sell": 1200,
-      "recycle": {}
+      "recycle": {
+        "Electrical Components": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -4085,7 +4545,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 2000,
-      "recycle": {}
+      "recycle": {
+        "ARC Alloy": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -4100,7 +4562,9 @@
     "category": "Topside Material",
     "values": {
       "sell": 700,
-      "recycle": {}
+      "recycle": {
+        "Plastic Parts": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -4115,7 +4579,9 @@
     "category": "Topside Material",
     "values": {
       "sell": 500,
-      "recycle": {}
+      "recycle": {
+        "Plastic Parts": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -4130,7 +4596,10 @@
     "category": "Augment",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Tactical Mk": 1,
+        "Rubber Parts": 3
+      }
     },
     "components": [],
     "requirements": {
@@ -4145,7 +4614,10 @@
     "category": "Augment",
     "values": {
       "sell": 2000,
-      "recycle": {}
+      "recycle": {
+        "Tactical Mk": 1,
+        "Magnet": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -4160,7 +4632,10 @@
     "category": "Augment",
     "values": {
       "sell": 5000,
-      "recycle": {}
+      "recycle": {
+        "Tactical Mk": 1,
+        "Processor": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -4175,7 +4650,10 @@
     "category": "Augment",
     "values": {
       "sell": 5000,
-      "recycle": {}
+      "recycle": {
+        "Tactical Mk": 1,
+        "Processor": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -4190,7 +4668,9 @@
     "category": "Quick Use",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Sensors": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -4205,7 +4685,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Fabric": 12
+      }
     },
     "components": [],
     "requirements": {
@@ -4220,7 +4702,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Fabric": 11
+      }
     },
     "components": [],
     "requirements": {
@@ -4235,7 +4719,10 @@
     "category": "Assault Rifle",
     "values": {
       "sell": 13000,
-      "recycle": {}
+      "recycle": {
+        "Advanced Mechanical Components": 14,
+        "Medium Gun Parts": 4
+      }
     },
     "components": [],
     "requirements": {
@@ -4250,7 +4737,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Sensors": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -4265,7 +4754,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "ARC Alloy": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -4280,7 +4771,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Wires": 3
+      }
     },
     "components": [],
     "requirements": {
@@ -4295,7 +4788,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Fabric": 12
+      }
     },
     "components": [],
     "requirements": {
@@ -4325,7 +4820,10 @@
     "category": "LMG",
     "values": {
       "sell": 7000,
-      "recycle": {}
+      "recycle": {
+        "Advanced Mechanical Components": 8,
+        "Medium Gun Parts": 3
+      }
     },
     "components": [],
     "requirements": {
@@ -4340,7 +4838,9 @@
     "category": "Quick Use",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Processor": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -4355,7 +4855,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 2000,
-      "recycle": {}
+      "recycle": {
+        "Oil": 3
+      }
     },
     "components": [],
     "requirements": {
@@ -4370,7 +4872,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 2000,
-      "recycle": {}
+      "recycle": {
+        "Simple Gun Parts": 5
+      }
     },
     "components": [],
     "requirements": {
@@ -4400,7 +4904,10 @@
     "category": "Pistol",
     "values": {
       "sell": 7000,
-      "recycle": {}
+      "recycle": {
+        "Advanced Mechanical Components": 8,
+        "Medium Gun Parts": 3
+      }
     },
     "components": [],
     "requirements": {
@@ -4415,7 +4922,9 @@
     "category": "Modification",
     "values": {
       "sell": 640,
-      "recycle": {}
+      "recycle": {
+        "Plastic Parts": 6
+      }
     },
     "components": [],
     "requirements": {
@@ -4430,7 +4939,9 @@
     "category": "Modification",
     "values": {
       "sell": 2000,
-      "recycle": {}
+      "recycle": {
+        "Duct Tape": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -4445,7 +4956,9 @@
     "category": "Modification",
     "values": {
       "sell": 5000,
-      "recycle": {}
+      "recycle": {
+        "Duct Tape": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -4475,7 +4988,9 @@
     "category": "Quick Use",
     "values": {
       "sell": 2000,
-      "recycle": {}
+      "recycle": {
+        "Syringe": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -4490,7 +5005,9 @@
     "category": "Quick Use",
     "values": {
       "sell": 3000,
-      "recycle": {}
+      "recycle": {
+        "Canister": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -4520,7 +5037,9 @@
     "category": "Topside Material",
     "values": {
       "sell": 500,
-      "recycle": {}
+      "recycle": {
+        "Rubber Parts": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -4535,7 +5054,10 @@
     "category": "Shotgun",
     "values": {
       "sell": 10000,
-      "recycle": {}
+      "recycle": {
+        "Advanced Mechanical Components": 11,
+        "Heavy Gun Parts": 5
+      }
     },
     "components": [],
     "requirements": {
@@ -4550,7 +5072,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Electrical Components": 1
+      }
     },
     "components": [],
     "requirements": {
@@ -4565,7 +5089,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Canister": 3
+      }
     },
     "components": [],
     "requirements": {
@@ -4580,7 +5106,9 @@
     "category": "Recyclable",
     "values": {
       "sell": 1000,
-      "recycle": {}
+      "recycle": {
+        "Oil": 2
+      }
     },
     "components": [],
     "requirements": {
@@ -4595,7 +5123,9 @@
     "category": "Topside Material",
     "values": {
       "sell": 200,
-      "recycle": {}
+      "recycle": {
+        "Rubber Parts": 3
+      }
     },
     "components": [],
     "requirements": {
@@ -4610,7 +5140,9 @@
     "category": "Quick Use",
     "values": {
       "sell": 3000,
-      "recycle": {}
+      "recycle": {
+        "Synthesized Fuel": 2
+      }
     },
     "components": [],
     "requirements": {

@@ -13,7 +13,7 @@ from __future__ import annotations
 import json
 import re
 from pathlib import Path
-from typing import Dict, List, Optional, Tuple
+from typing import Dict, Iterable, List, Optional, Tuple
 
 try:
     from bs4 import BeautifulSoup
@@ -37,6 +37,18 @@ HUB_KEYWORDS = {
 }
 CATEGORY_REGEX = re.compile(r'"wgCategories":(\[.*?\])', re.S)
 TRADER_PATTERN = re.compile(r"quest(?:s)?\s+(?:given|offered)\s+by\s+([A-Z][a-z]+)", re.I)
+RECYCLE_ENTRY_REGEX = re.compile(
+    r"(\d+)\s*[x×]\s*([A-Za-z0-9][A-Za-z0-9\s'’\-\(\)&\/\.]+?)(?=(?:\s+\d+\s*[x×]|\s*$|[,.;]))"
+)
+RECYCLE_KEYWORDS = ("recycle", "recycled")
+def extract_item_name(soup: BeautifulSoup) -> str:
+    name_element = soup.select_one("tr.infobox-title")
+    if name_element:
+        name = clean_text(name_element.get_text())
+    else:
+        heading = soup.select_one("#firstHeading")
+        name = clean_text(heading.get_text() if heading else "")
+    return name
 
 
 def clean_text(value: Optional[str]) -> str:
@@ -127,13 +139,7 @@ def parse_item_page(soup: BeautifulSoup, _categories: List[str]) -> Optional[Dic
     if not infobox:
         return None
 
-    name_element = infobox.select_one("tr.infobox-title")
-    if name_element:
-        name = clean_text(name_element.get_text())
-    else:
-        heading = soup.select_one("#firstHeading")
-        name = clean_text(heading.get_text() if heading else "")
-
+    name = extract_item_name(soup)
     if not name:
         return None
 
@@ -188,14 +194,81 @@ def write_combined_data(items: List[Dict[str, object]], output_path: Path) -> No
     output_path.write_text(json.dumps(items, indent=2, ensure_ascii=False), encoding="utf-8")
 
 
-def main() -> None:
-    repo_root = Path(__file__).resolve().parents[1]
-    wiki_dir = repo_root / "assets" / "arcraiders_wiki_pages"
-    output_path = repo_root / "data" / "combined_data.json"
+def parse_recycle_tokens(text: str) -> Dict[str, int]:
+    recycle: Dict[str, int] = {}
+    for amount, name in RECYCLE_ENTRY_REGEX.findall(text):
+        cleaned_name = clean_text(name).strip(",.")
+        if not cleaned_name:
+            continue
+        recycle[cleaned_name] = recycle.get(cleaned_name, 0) + int(amount)
+    return recycle
 
-    items: List[Dict[str, object]] = []
-    quests: List[Dict[str, object]] = []
 
+def parse_recycle_section_texts(nodes: Iterable) -> Dict[str, int]:
+    recycle: Dict[str, int] = {}
+    for node in nodes:
+        if getattr(node, "get_text", None):
+            text = node.get_text(" ", strip=True)
+            for name, amount in parse_recycle_tokens(text).items():
+                recycle[name] = recycle.get(name, 0) + amount
+    return recycle
+
+
+def parse_recycle_info(soup: BeautifulSoup) -> Dict[str, int]:
+    infobox = soup.select_one("table.infobox")
+    if infobox:
+        recycle_row = infobox.find("th", string=lambda text: text and "Recycle" in text)
+        if recycle_row:
+            cell = recycle_row.find_next("td")
+            if cell:
+                recycle = parse_recycle_tokens(cell.get_text(" ", strip=True))
+                if recycle:
+                    return recycle
+
+    def collect_following_nodes(heading) -> List:
+        collected: List = []
+
+        def gather_from(node) -> None:
+            if node is None:
+                return
+            for sibling in node.next_siblings:
+                sibling_name = getattr(sibling, "name", "")
+                if not sibling_name:
+                    continue
+                if sibling_name in {"h2", "h3", "h4"}:
+                    return
+                classes = sibling.get("class") or []
+                if sibling_name == "div" and "mw-heading" in classes:
+                    return
+                if sibling_name in {"table", "p", "ul", "ol", "section", "div"}:
+                    collected.append(sibling)
+
+        parent = heading.parent if heading else None
+        if parent is not None:
+            gather_from(parent)
+        if not collected:
+            gather_from(heading)
+        return collected
+
+    for heading in soup.find_all(["h2", "h3", "h4"]):
+        heading_text = clean_text(heading.get_text())
+        if not heading_text or not any(k in heading_text.lower() for k in RECYCLE_KEYWORDS):
+            continue
+
+        collected = collect_following_nodes(heading)
+        recycle = parse_recycle_section_texts(collected)
+        if recycle:
+            return recycle
+
+    return {}
+
+
+def load_items_from_json(path: Path) -> List[Dict[str, object]]:
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+def build_item_html_lookup(wiki_dir: Path) -> Dict[str, BeautifulSoup]:
+    lookup: Dict[str, BeautifulSoup] = {}
     for html_file in sorted(wiki_dir.glob("*.html")):
         raw_html = read_html(html_file)
         categories = extract_categories(raw_html)
@@ -204,19 +277,47 @@ def main() -> None:
             continue
 
         soup = BeautifulSoup(raw_html, "html.parser")
+        if is_item_page(soup, categories):
+            name = extract_item_name(soup)
+            if name and name not in lookup:
+                lookup[name] = soup
+    return lookup
 
-        if is_quest_page(html_file, categories):
-            quests.append(parse_quest_page(soup, categories))
+
+def update_recycle_values(items: List[Dict[str, object]], wiki_dir: Path) -> None:
+    lookup = build_item_html_lookup(wiki_dir)
+    updated = 0
+    missing_sources = []
+
+    for item in items:
+        soup = lookup.get(item["name"])
+        if not soup:
+            missing_sources.append(item["name"])
             continue
 
-        if is_item_page(soup, categories):
-            parsed = parse_item_page(soup, categories)
-            if parsed:
-                items.append(parsed)
+        recycle = parse_recycle_info(soup)
+        if recycle:
+            item.setdefault("values", {})
+            item["values"]["recycle"] = recycle
+            updated += 1
 
+    print(f"Updated recycle data for {updated} items.")
+    if missing_sources:
+        print(f"Warning: No HTML source found for {len(missing_sources)} items.")
+
+
+def main() -> None:
+    repo_root = Path(__file__).resolve().parents[1]
+    wiki_dir = repo_root / "assets" / "arcraiders_wiki_pages"
+    output_path = repo_root / "data" / "combined_data.json"
+
+    if not output_path.exists():
+        raise SystemExit("combined_data.json not found. Run the Phase 1 extraction first.")
+
+    items = load_items_from_json(output_path)
+    update_recycle_values(items, wiki_dir)
     write_combined_data(items, output_path)
-    print(f"Extracted {len(items)} items into {output_path}")
-    print(f"Indexed {len(quests)} quest summaries for future requirement mapping.")
+    print(f"Rewrote {output_path} with updated recycle values.")
 
 
 if __name__ == "__main__":
